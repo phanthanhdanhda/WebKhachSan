@@ -1,0 +1,36 @@
+﻿@model WebCK.Models.Room
+@using Microsoft.AspNetCore.Mvc.Rendering
+@{
+    ViewData["Title"] = "Thêm phòng";
+}
+<body>
+    <h2>Thêm phòng</h2>
+    <form asp-action="Add" method="post" enctype="multipart/form-data">
+        <div class="form-group">
+            <label asp-for="RoomNumber">Tên phòng</label>
+            <input asp-for="RoomNumber" class="form-control" />
+            <span asp-validation-for="RoomNumber" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Price">Giá thuê</label>
+            <input asp-for="Price" class="form-control" />
+            <span asp-validation-for="Price" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Description">Mô tả</label>
+            <textarea asp-for="Description" class="form-control"></textarea>
+        </div>
+        <div class="form-group">
+            <label asp-for="CategoryId">Thể loại</label>
+            <select asp-for="CategoryId" asp-items="ViewBag.Categories" class="form-control">
+                <option value="">-- Chọn thể loại --</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label asp-for="Image">Hình ảnh</label>
+            <input type="file" asp-for="Image" class="form-control" />
+        </div>
+        <button type="submit" class="btn btn-primary">Thêm</button>
+        <button asp-action="Index" class="btn btn-close">Hủy</button>
+    </form>
+</body>

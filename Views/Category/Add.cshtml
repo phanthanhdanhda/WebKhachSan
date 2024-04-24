@@ -1,0 +1,19 @@
+﻿@model WebCK.Models.Category
+@using Microsoft.AspNetCore.Mvc.Rendering
+@{
+    ViewData["Title"] = "Add";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<body>
+    <h2>Thêm thể loại phòng</h2>
+    <form asp-action="Add" method="post" enctype="multipart/form-data">
+        <div class="form-group">
+            <label asp-for="CategoryName"></label>
+            <input asp-for="CategoryName" class="form-control" />
+            <span asp-validation-for="CategoryName" class="text-danger"></span>
+        </div>
+        <button type="submit" class="btn btn-primary">Thêm</button>
+        <button asp-action="Index" class="btn btn-close">Hủy</button>
+    </form>
+</body>

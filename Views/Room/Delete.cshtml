@@ -1,0 +1,10 @@
+﻿@model WebCK.Models.Room
+<body>
+    <h2>Xóa phòng</h2>
+    <form asp-action="DeleteConfirmed" method="post">
+        <input type="hidden" asp-for="Id" />
+        <p>Bạn có muốn xóa @Model.RoomNumber không?</p>
+        <button type="submit" class="btn btn-danger">Xóa</button>
+        <button asp-action="Index" class="btn btn-close">Hủy</button>
+    </form>
+</body>

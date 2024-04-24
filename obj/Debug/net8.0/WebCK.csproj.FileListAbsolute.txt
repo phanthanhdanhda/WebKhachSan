@@ -1,0 +1,574 @@
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\appsettings.Development.json
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\appsettings.json
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\WebCK.staticwebassets.runtime.json
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\WebCK.exe
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\WebCK.deps.json
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\WebCK.runtimeconfig.json
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\WebCK.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\WebCK.pdb
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\Azure.Core.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\Azure.Identity.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\Humanizer.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\System.CodeDom.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\System.Memory.Data.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\device\code exercises\DAWeb\WebCK\obj\Debug\net8.0\WebCK.csproj.AssemblyReference.cache
+D:\device\code exercises\DAWeb\WebCK\obj\Debug\net8.0\WebCK.GeneratedMSBuildEditorConfig.editorconfig
+D:\device\code exercises\DAWeb\WebCK\obj\Debug\net8.0\WebCK.AssemblyInfoInputs.cache
+D:\device\code exercises\DAWeb\WebCK\obj\Debug\net8.0\WebCK.AssemblyInfo.cs
+D:\device\code exercises\DAWeb\WebCK\obj\Debug\net8.0\WebCK.csproj.CoreCompileInputs.cache
+D:\device\code exercises\DAWeb\WebCK\obj\Debug\net8.0\WebCK.MvcApplicationPartsAssemblyInfo.cs
+D:\device\code exercises\DAWeb\WebCK\obj\Debug\net8.0\WebCK.MvcApplicationPartsAssemblyInfo.cache
+D:\device\code exercises\DAWeb\WebCK\obj\Debug\net8.0\WebCK.RazorAssemblyInfo.cache
+D:\device\code exercises\DAWeb\WebCK\obj\Debug\net8.0\WebCK.RazorAssemblyInfo.cs
+D:\device\code exercises\DAWeb\WebCK\obj\Debug\net8.0\staticwebassets.build.json
+D:\device\code exercises\DAWeb\WebCK\obj\Debug\net8.0\staticwebassets.development.json
+D:\device\code exercises\DAWeb\WebCK\obj\Debug\net8.0\staticwebassets\msbuild.WebCK.Microsoft.AspNetCore.StaticWebAssets.props
+D:\device\code exercises\DAWeb\WebCK\obj\Debug\net8.0\staticwebassets\msbuild.build.WebCK.props
+D:\device\code exercises\DAWeb\WebCK\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebCK.props
+D:\device\code exercises\DAWeb\WebCK\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebCK.props
+D:\device\code exercises\DAWeb\WebCK\obj\Debug\net8.0\staticwebassets.pack.json
+D:\device\code exercises\DAWeb\WebCK\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\device\code exercises\DAWeb\WebCK\obj\Debug\net8.0\scopedcss\bundle\WebCK.styles.css
+D:\device\code exercises\DAWeb\WebCK\obj\Debug\net8.0\scopedcss\projectbundle\WebCK.bundle.scp.css
+D:\device\code exercises\DAWeb\WebCK\obj\Debug\net8.0\WebCK.csproj.Up2Date
+D:\device\code exercises\DAWeb\WebCK\obj\Debug\net8.0\WebCK.dll
+D:\device\code exercises\DAWeb\WebCK\obj\Debug\net8.0\refint\WebCK.dll
+D:\device\code exercises\DAWeb\WebCK\obj\Debug\net8.0\WebCK.pdb
+D:\device\code exercises\DAWeb\WebCK\obj\Debug\net8.0\WebCK.genruntimeconfig.cache
+D:\device\code exercises\DAWeb\WebCK\obj\Debug\net8.0\ref\WebCK.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\Microsoft.Build.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\NuGet.Common.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\device\code exercises\DAWeb\WebCK\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\appsettings.Development.json
+D:\DoAn\WebCK\bin\Debug\net8.0\appsettings.json
+D:\DoAn\WebCK\bin\Debug\net8.0\WebCK.staticwebassets.runtime.json
+D:\DoAn\WebCK\bin\Debug\net8.0\WebCK.exe
+D:\DoAn\WebCK\bin\Debug\net8.0\WebCK.deps.json
+D:\DoAn\WebCK\bin\Debug\net8.0\WebCK.runtimeconfig.json
+D:\DoAn\WebCK\bin\Debug\net8.0\WebCK.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\WebCK.pdb
+D:\DoAn\WebCK\bin\Debug\net8.0\Azure.Core.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\Azure.Identity.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\Humanizer.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\Microsoft.Build.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\NuGet.Common.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\System.CodeDom.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\System.Memory.Data.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+D:\DoAn\WebCK\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\DoAn\WebCK\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\DoAn\WebCK\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\DoAn\WebCK\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\DoAn\WebCK\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\DoAn\WebCK\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\DoAn\WebCK\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\DoAn\WebCK\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\DoAn\WebCK\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\DoAn\WebCK\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\DoAn\WebCK\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\DoAn\WebCK\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\DoAn\WebCK\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\DoAn\WebCK\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\DoAn\WebCK\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\DoAn\WebCK\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\DoAn\WebCK\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\DoAn\WebCK\obj\Debug\net8.0\WebCK.csproj.AssemblyReference.cache
+D:\DoAn\WebCK\obj\Debug\net8.0\WebCK.GeneratedMSBuildEditorConfig.editorconfig
+D:\DoAn\WebCK\obj\Debug\net8.0\WebCK.AssemblyInfoInputs.cache
+D:\DoAn\WebCK\obj\Debug\net8.0\WebCK.AssemblyInfo.cs
+D:\DoAn\WebCK\obj\Debug\net8.0\WebCK.csproj.CoreCompileInputs.cache
+D:\DoAn\WebCK\obj\Debug\net8.0\WebCK.MvcApplicationPartsAssemblyInfo.cs
+D:\DoAn\WebCK\obj\Debug\net8.0\WebCK.MvcApplicationPartsAssemblyInfo.cache
+D:\DoAn\WebCK\obj\Debug\net8.0\WebCK.RazorAssemblyInfo.cache
+D:\DoAn\WebCK\obj\Debug\net8.0\WebCK.RazorAssemblyInfo.cs
+D:\DoAn\WebCK\obj\Debug\net8.0\staticwebassets.build.json
+D:\DoAn\WebCK\obj\Debug\net8.0\staticwebassets.development.json
+D:\DoAn\WebCK\obj\Debug\net8.0\staticwebassets\msbuild.WebCK.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DoAn\WebCK\obj\Debug\net8.0\staticwebassets\msbuild.build.WebCK.props
+D:\DoAn\WebCK\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebCK.props
+D:\DoAn\WebCK\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebCK.props
+D:\DoAn\WebCK\obj\Debug\net8.0\staticwebassets.pack.json
+D:\DoAn\WebCK\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\DoAn\WebCK\obj\Debug\net8.0\scopedcss\bundle\WebCK.styles.css
+D:\DoAn\WebCK\obj\Debug\net8.0\scopedcss\projectbundle\WebCK.bundle.scp.css
+D:\DoAn\WebCK\obj\Debug\net8.0\WebCK.csproj.CopyComplete
+D:\DoAn\WebCK\obj\Debug\net8.0\WebCK.dll
+D:\DoAn\WebCK\obj\Debug\net8.0\refint\WebCK.dll
+D:\DoAn\WebCK\obj\Debug\net8.0\WebCK.pdb
+D:\DoAn\WebCK\obj\Debug\net8.0\WebCK.genruntimeconfig.cache
+D:\DoAn\WebCK\obj\Debug\net8.0\ref\WebCK.dll
