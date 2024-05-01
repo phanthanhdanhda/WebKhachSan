@@ -7,9 +7,9 @@
     <h2>Thêm phòng</h2>
     <form asp-action="Add" method="post" enctype="multipart/form-data">
         <div class="form-group">
-            <label asp-for="RoomNumber">Tên phòng</label>
-            <input asp-for="RoomNumber" class="form-control" />
-            <span asp-validation-for="RoomNumber" class="text-danger"></span>
+            <label asp-for="RoomName">Tên phòng</label>
+            <input asp-for="RoomName" class="form-control" />
+            <span asp-validation-for="RoomName" class="text-danger"></span>
         </div>
         <div class="form-group">
             <label asp-for="Price">Giá thuê</label>
@@ -31,6 +31,6 @@
             <input type="file" asp-for="Image" class="form-control" />
         </div>
         <button type="submit" class="btn btn-primary">Thêm</button>
-        <button asp-action="Index" class="btn btn-close">Hủy</button>
+        <a asp-action="Index" class="btn btn-close">Hủy</a>
     </form>
 </body>

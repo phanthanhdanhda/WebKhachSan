@@ -28,6 +28,7 @@ builder.Services.AddControllersWithViews();
 
 builder.Services.AddScoped<IRoomRepository, EFRoomRepository>();
 builder.Services.AddScoped<ICategoryRepository, EFCategoryRepository>();
+builder.Services.AddScoped<IFormRepository, EFFormRepository>();
 
 var app = builder.Build();
 

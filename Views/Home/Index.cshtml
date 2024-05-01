@@ -1,4 +1,6 @@
-﻿@{
+﻿@model IEnumerable<Room>
+
+@{
     ViewData["Title"] = "Home Page";
 }
 <link rel="manifest" href="site.webmanifest">
@@ -168,28 +170,32 @@
                     <!--font-back-tittle  -->
                     <div class="font-back-tittle mb-45">
                         <div class="archivment-front">
-                            <h3><a asp-controller="Room" asp-action="Index">Our Rooms</a></h3>
+                            <h3><a asp-controller="Home" asp-action="Viewmore">Our Rooms</a></h3>
                         </div>
                         <h3 class="archivment-back">Our Rooms</h3>
                     </div>
                 </div>
             </div>
             <div class="row">
-                <div class="col-xl-4 col-lg-6 col-md-6">
-                    <!-- Single Room -->
-                    <div class="single-room mb-50">
-                        <div class="room-img">
-                            <a href="rooms.html"><img src="assets/img/rooms/room1.jpg" alt=""></a>
-                        </div>
-                        <div class="room-caption">
-                            <h3><a href="rooms.html">Classic Double Bed</a></h3>
-                            <div class="per-night">
-                                <span><u>$</u>150 <span>/ par night</span></span>
+                @foreach(var item in @Model)
+                {
+                    <div class="col-xl-4 col-lg-6 col-md-6">
+                        <!-- Single Room -->
+                        <div class="single-room mb-50">
+                            <div class="room-img">
+                                <a><img src="@item.Image" alt="anhphong"></a>
+                            </div>
+                            <div class="room-caption">
+                                <h3><a href="rooms.html">Phòng số: @item.RoomName</a></h3>
+                                <div class="per-night">
+                                    <span><u>$</u>@item.Price <span>/ 1 đêm</span></span>
+                                </div>
                             </div>
                         </div>
                     </div>
-                </div>
-                <div class="col-xl-4 col-lg-6 col-md-6">
+                }
+                
+                @* <div class="col-xl-4 col-lg-6 col-md-6">
                     <!-- Single Room -->
                     <div class="single-room mb-50">
                         <div class="room-img">
@@ -258,7 +264,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> *@
             </div>
             <div class="row justify-content-center">
                 <div class="room-btn pt-70">

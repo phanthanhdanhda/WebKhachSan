@@ -15,9 +15,11 @@
                     <hr />
                 </div>
             </div>
-            @foreach (var room in Model)
-            {
+            
+            
                 <div class="row">
+                @foreach (var room in Model)
+                {
                     <div class="col-xl-4 col-lg-6 col-md-6">
                         <!-- Single Room -->
                         <div class="single-room mb-50">
@@ -25,18 +27,20 @@
                                 <a asp-action="Display"><img src="@room.Image" alt=""></a>
                             </div>
                             <div class="room-caption">
-                                <h3><a asp-action="Display">@room.RoomNumber</a></h3>
+                                <h3><a asp-action="Display">@room.RoomName</a></h3>
                                 <div class="per-night">
                                     <span>@room.Price<u>đ</u><span>/ per night</span></span>
                                 </div>
                                 <a asp-action="Display" asp-route-id="@room.Id">View</a> |
                                 <a asp-action="Update" asp-route-id="@room.Id">Edit</a> |
                                 <a asp-action="Delete" asp-route-id="@room.Id">Delete</a>
+                                <a asp-controller="BookingForm" asp-action="Add" asp-route-RoomId="@room.Id" class="btn btn-primary">Book Now</a>
                             </div>
                         </div>
                     </div>
+                }
                 </div>
-            }
+
             <div class="row justify-content-center">
                 <div class="room-btn pt-70">
                     <a href="#" class="btn view-btn1">View more  <i class="ti-angle-right"></i> </a>

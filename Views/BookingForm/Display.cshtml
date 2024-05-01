@@ -1,0 +1,12 @@
+﻿@model WebCK.Models.BookingForm
+<body>
+    <h2>@Model.UserId</h2>
+    <div>
+        <h3>Number of guests: @Model.NumberOfGuests</h3>
+        <h3>Check in date: @Model.CheckInDate</h3>
+        <h3>Check out date: @Model.CheckOutDate</h3>
+        <h3>Price: @Model.BookingFee</h3>
+        <h3>Deposit: @Model.Deposit</h3>
+    </div>
+    @* <a asp-action="Index">Back to List</a> *@
+</body>

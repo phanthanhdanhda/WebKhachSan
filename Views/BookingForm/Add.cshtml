@@ -1,0 +1,30 @@
+﻿@model WebCK.Models.BookingForm
+@using Microsoft.AspNetCore.Mvc.Rendering
+
+<body>
+    <h3>Create Booking Form</h3>
+    <form method="post">
+        <div class="form-group">
+            <label asp-for="NumberOfGuests">Số người</label>
+            <input asp-for="NumberOfGuests" class="form-control" type="number"/>
+            <span asp-validation-for="NumberOfGuests" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="CheckInDate">Ngày nhận phòng</label>
+            <input asp-for="CheckInDate" class="form-control" type="date"/>
+        </div>
+        <div class="form-group">
+            <label asp-for="CheckOutDate">Ngày trả phòng</label>
+            <input asp-for="CheckOutDate" class="form-control" type="date" />
+        </div>
+        <div class="form-group">
+            <label asp-for="BookingFee">Phí thuê</label>
+            <input asp-for="BookingFee" class="form-control" readonly value="@ViewBag.RoomPrice" />
+        </div>
+        <div class="form-group">
+            <label asp-for="Deposit">Tiền cọc</label>
+            <input asp-for="Deposit" class="form-control" readonly value="@ViewBag.Deposit" />
+        </div>
+        <button type="submit" class="btn btn-primary">Confirm</button>
+    </form>
+</body>

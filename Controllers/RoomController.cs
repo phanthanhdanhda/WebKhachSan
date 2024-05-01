@@ -104,7 +104,7 @@ namespace WebCK.Controllers
                     // Lưu hình ảnh mới
                     room.Image = await SaveImage(Image);
                 }
-                existingroom.RoomNumber = room.RoomNumber;
+                existingroom.RoomName = room.RoomName;
                 existingroom.Price = room.Price;
                 existingroom.Description = room.Description;
                 existingroom.CategoryId = room.CategoryId;
