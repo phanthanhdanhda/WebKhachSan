@@ -8,6 +8,9 @@ namespace WebCK.Models
     {
         [Key] public int Id { get; set; }
         [Required] public DateTime BookingDate { get; set; } = DateTime.Now;
+        [Required] public string FullName { get; set; }
+        public string? Age { get; set; }
+        public string? PhoneNumber { get; set; }
         public int NumberOfGuests { get; set; }
         public DateTime? CheckInDate { get; set; }
         public DateTime? CheckOutDate { get; set; }

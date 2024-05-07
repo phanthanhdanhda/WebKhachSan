@@ -13,6 +13,7 @@ namespace WebCK.Data
         public DbSet<Category> Categories { get; set; }
         public DbSet<Room> Rooms { get; set; }
         public DbSet<BookingForm> Forms { get; set; }
+        public DbSet<DepositBill> Bills { get; set; }
         public DbSet<ApplicationUser> ApplicationUsers { get; set; }
     }
 }

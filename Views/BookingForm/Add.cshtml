@@ -2,29 +2,50 @@
 @using Microsoft.AspNetCore.Mvc.Rendering
 
 <body>
-    <h3>Create Booking Form</h3>
-    <form method="post">
-        <div class="form-group">
-            <label asp-for="NumberOfGuests">Số người</label>
-            <input asp-for="NumberOfGuests" class="form-control" type="number"/>
-            <span asp-validation-for="NumberOfGuests" class="text-danger"></span>
-        </div>
-        <div class="form-group">
-            <label asp-for="CheckInDate">Ngày nhận phòng</label>
-            <input asp-for="CheckInDate" class="form-control" type="date"/>
-        </div>
-        <div class="form-group">
-            <label asp-for="CheckOutDate">Ngày trả phòng</label>
-            <input asp-for="CheckOutDate" class="form-control" type="date" />
-        </div>
-        <div class="form-group">
-            <label asp-for="BookingFee">Phí thuê</label>
-            <input asp-for="BookingFee" class="form-control" readonly value="@ViewBag.RoomPrice" />
-        </div>
-        <div class="form-group">
-            <label asp-for="Deposit">Tiền cọc</label>
-            <input asp-for="Deposit" class="form-control" readonly value="@ViewBag.Deposit" />
-        </div>
-        <button type="submit" class="btn btn-primary">Confirm</button>
-    </form>
+    <div class="container">
+        <h3>Create Booking Form</h3>
+        <form method="post">
+            <div class="form-group">
+                <label asp-for="FullName">Tên</label>
+                <input asp-for="FullName" class="form-control" type="text" />
+                <span asp-validation-for="FullName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Age">Tuổi</label>
+                <input asp-for="Age" class="form-control" type="number" />
+            </div>
+            <div class="form-group">
+                <label asp-for="PhoneNumber">SĐT liên lạc</label>
+                <input asp-for="PhoneNumber" class="form-control" type="tel" />
+            </div>
+            <div class="form-group">
+                <label asp-for="NumberOfGuests">Số người</label>
+                <input asp-for="NumberOfGuests" class="form-control" type="number" />
+                <span asp-validation-for="NumberOfGuests" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CheckInDate">Ngày nhận phòng</label>
+                <input asp-for="CheckInDate" class="form-control" type="date" />
+            </div>
+            <div class="form-group">
+                <label asp-for="CheckOutDate">Ngày trả phòng</label>
+                <input asp-for="CheckOutDate" class="form-control" type="date" />
+            </div>
+            <div class="form-group">
+                <label asp-for="BookingFee">Phí thuê</label>
+                <input asp-for="BookingFee" class="form-control" readonly value="@ViewBag.RoomPrice" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Deposit">Tiền cọc</label>
+                <input asp-for="Deposit" class="form-control" readonly value="@ViewBag.Deposit" />
+            </div>
+            <button type="submit" class="btn btn-primary">Checkout</button>
+            <button onclick="goBack()" class="btn btn-primary">Cancel</button>
+        </form>
+    </div>
 </body>
+<script>
+    function goBack() {
+        window.history.back();
+    }
+</script>

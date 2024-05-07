@@ -74,7 +74,7 @@
                                                 <li><a href="elements.html">Element</a></li>
                                             </ul>
                                         </li>
-                                        <li><a asp-controller="Room" asp-action="Index">Tạo Phong</a></li>
+                                        <li><partial name="_LoginPartial.cshtml" /></li>
                                     </ul>
                                 </nav>
                             </div>
@@ -96,7 +96,7 @@
         <!-- Header End -->
         
     </header>
-    <partial name="_LoginPartial" />
+    
     @RenderBody()
 
     <footer>

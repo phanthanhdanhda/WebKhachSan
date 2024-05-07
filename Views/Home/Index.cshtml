@@ -3,22 +3,7 @@
 @{
     ViewData["Title"] = "Home Page";
 }
-<link rel="manifest" href="site.webmanifest">
-<link rel="shortcut icon" type="image/x-icon" href="~/img/favicon.ico">
 
-<!-- CSS here -->
-<link rel="stylesheet" href="~/css/bootstrap.min.css">
-<link rel="stylesheet" href="~/css/owl.carousel.min.css">
-<link rel="stylesheet" href="~/css/gijgo.css">
-<link rel="stylesheet" href="~/css/slicknav.css">
-<link rel="stylesheet" href="~/css/animate.min.css">
-<link rel="stylesheet" href="~/css/magnific-popup.css">
-<link rel="stylesheet" href="~/css/fontawesome-all.min.css">
-<link rel="stylesheet" href="~/css/themify-icons.css">
-<link rel="stylesheet" href="~/css/slick.css">
-<link rel="stylesheet" href="~/css/nice-select.css">
-<link rel="stylesheet" href="~/css/style.css">
-<link rel="stylesheet" href="~/css/responsive.css">
 <main>
 
     <!-- slider Area Start-->
@@ -186,7 +171,7 @@
                                 <a><img src="@item.Image" alt="anhphong"></a>
                             </div>
                             <div class="room-caption">
-                                <h3><a href="rooms.html">Phòng số: @item.RoomName</a></h3>
+                                <h3><a href="rooms.html">@item.RoomName</a></h3>
                                 <div class="per-night">
                                     <span><u>$</u>@item.Price <span>/ 1 đêm</span></span>
                                 </div>
@@ -268,7 +253,7 @@
             </div>
             <div class="row justify-content-center">
                 <div class="room-btn pt-70">
-                    <a href="#" class="btn view-btn1">View more  <i class="ti-angle-right"></i> </a>
+                    <a asp-controller="Room" asp-action="Index" class="btn view-btn1">View more  <i class="ti-angle-right"></i> </a>
                 </div>
             </div>
         </div>

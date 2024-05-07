@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using WebCK.Data;
 
@@ -11,9 +12,11 @@ using WebCK.Data;
 namespace WebCK.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20240502031455_bill")]
+    partial class bill
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -297,38 +300,6 @@ namespace WebCK.Migrations
                     b.ToTable("Categories");
                 });
 
-            modelBuilder.Entity("WebCK.Models.DepositBill", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
-
-                    b.Property<string>("ApplicationUserId")
-                        .HasColumnType("nvarchar(450)");
-
-                    b.Property<DateTime>("DateCreated")
-                        .HasColumnType("datetime2");
-
-                    b.Property<int?>("FormId")
-                        .HasColumnType("int");
-
-                    b.Property<int>("TotalFee")
-                        .HasColumnType("int");
-
-                    b.Property<string>("UserId")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.HasKey("Id");
-
-                    b.HasIndex("ApplicationUserId");
-
-                    b.HasIndex("FormId");
-
-                    b.ToTable("Bills");
-                });
-
             modelBuilder.Entity("WebCK.Models.Room", b =>
                 {
                     b.Property<int>("Id")
@@ -444,21 +415,6 @@ namespace WebCK.Migrations
                     b.Navigation("ApplicationUser");
 
                     b.Navigation("Room");
-                });
-
-            modelBuilder.Entity("WebCK.Models.DepositBill", b =>
-                {
-                    b.HasOne("WebCK.Models.ApplicationUser", "ApplicationUser")
-                        .WithMany()
-                        .HasForeignKey("ApplicationUserId");
-
-                    b.HasOne("WebCK.Models.BookingForm", "BookingForm")
-                        .WithMany()
-                        .HasForeignKey("FormId");
-
-                    b.Navigation("ApplicationUser");
-
-                    b.Navigation("BookingForm");
                 });
 
             modelBuilder.Entity("WebCK.Models.Room", b =>
