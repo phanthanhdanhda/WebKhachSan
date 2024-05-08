@@ -1,48 +1,44 @@
 ﻿@model IEnumerable<WebCK.Models.Category>
+<link rel="stylesheet" href="https://cdn.datatables.net/2.0.7/css/dataTables.dataTables.css" />
+<script src="https://cdn.datatables.net/2.0.7/js/dataTables.js"></script>
 <body>
-    <section class="room-area r-padding1">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-xl-8">
-                    <!--font-back-tittle  -->
-                    <div class="font-back-tittle mb-45">
-                        <div class="archivment-front">
-                            <h3>Category</h3>
-                        </div>
-                        <h3 class="archivment-back">Our Rooms</h3>
-                    </div>
-                    <div><a asp-action="Add" class="btn btn-primary">Thêm phòng</a></div>
-                </div>
-            </div>
-            <div class="row justify-content-center">
-                <table class="table">
-                    <thead>
-                        <tr>
-                            <th>Name</th>
-                            <th>Actions</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        @foreach (var category in Model)
-                        {
-                            <tr>
-                                <td>@category.CategoryName</td>
-                                <td>
-                                    <a asp-action="Display" asp-route-id="@category.Id">View</a> |
-                                    <a asp-action="Update" asp-route-id="@category.Id">Edit</a> |
-                                    <a asp-action="Delete" asp-route-id="@category.Id">Delete</a>
-                                </td>
-                            </tr>
-                        }
-                    </tbody>
-                </table>
-            </div>
-            <div class="row justify-content-center">
-                <div class="room-btn pt-70">
-                    <a href="#" class="btn view-btn1">View more  <i class="ti-angle-right"></i> </a>
-                </div>
-            </div>
-        </div>
-
-    </section>
+    <a asp-controller="Category" asp-action="Add" class="btn btn-primary">Thêm thể loại</a>
+    <div class="container">
+        <table id="bangtheloai" class="display">
+            <thead style="background-color: gray; color: white">
+                <tr>
+                    <th>Tên thể loại</th>
+                    <th>Ngày tạo</th>
+                    <th>Chức năng</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var obj in Model)
+                {
+                    <tr>
+                        <td>@obj.CategoryName</td>
+                        <td>@obj.CreatedDate</td>
+                        <td>
+                            <a asp-action="Update" asp-route-id="@obj.Id">Edit</a> |
+                            <a asp-action="Delete" asp-route-id="@obj.Id">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
 </body>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+<link rel="stylesheet" href="https://cdn.datatables.net/2.0.7/css/dataTables.dataTables.css" />
+
+<script src="https://cdn.datatables.net/2.0.7/js/dataTables.js"></script>
+
+
+<script type="text/javascript">
+    var js = jQuery.noConflict(true);
+    js(document).ready(function () {
+        js('#bangtheloai').DataTable();
+    });
+</script>

@@ -19,17 +19,6 @@ namespace WebCK.Controllers
             var category = await _categoryRepository.GetAllAsync();
             return View(category);
         }
-        public async Task<IActionResult> Display(int id)
-        {
-            //var rooms = await _roomRepository.GetAllAsync();
-            //ViewBag.Categories = new SelectList(categories, "Id", "Name");
-            var category = await _categoryRepository.GetByIdAsync(id);
-            if (category == null)
-            {
-                return NotFound();
-            }
-            return View(category);
-        }
         public IActionResult Add()
         {
             return View();

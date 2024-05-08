@@ -23,6 +23,12 @@
     <link rel="stylesheet" href="~/css/nice-select.css">
     <link rel="stylesheet" href="~/css/style.css">
     <link rel="stylesheet" href="~/css/responsive.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tinymce/7.0.1/tinymce.min.js" integrity="sha512-KGtsnWohFUg0oksKq7p7eDgA1Rw2nBfqhGJn463/rGhtUY825dBqGexj8eP04LwfnsSW6dNAHAlOqKJKquHsnw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script>
+        tinymce.init({
+            selector: '#mytextarea'
+        });
+    </script>
 </head>
 
 <body>
@@ -52,13 +58,13 @@
                                 <a href="index.html"><img src="~/img/logo/logo.png" alt=""></a>
                             </div>
                         </div>
-                        <div class="col-xl-8 col-lg-8">
+                        <div class="col-xl-10 col-lg-10">
                             <!-- main-menu -->
                             <div class="main-menu f-right d-none d-lg-block">
                                 <nav>
                                     <ul id="navigation">
                                         <li><a asp-controller="Home" asp-action="Index">Trang chủ</a></li>
-                                        <li><a href="about.html">Tin tức</a></li>
+                                        @* <li><a href="about.html">Tin tức</a></li>
                                         <li><a href="services.html">Service</a></li>
                                         <li>
                                             <a href="blog.html">Blog</a>
@@ -66,20 +72,25 @@
                                                 <li><a href="blog.html">Blog</a></li>
                                                 <li><a href="single-blog.html">Blog Details</a></li>
                                             </ul>
-                                        </li>
-                                        <li>
-                                            <a href="#">Pages</a>
-                                            <ul class="submenu">
-                                                <li><a asp-controller="Room" asp-action="Index">Xem Phòng</a>
-                                                <li><a href="elements.html">Element</a></li>
-                                            </ul>
-                                        </li>
+                                        </li> *@
+                                        @if (User.IsInRole("Admin"))
+                                        {
+                                            <li href="#">
+                                                Quản lí
+                                                <ul class="submenu">
+                                                    <li><a asp-controller="Category" asp-action="Index">Thể loại</a></li>
+                                                    <li><a asp-controller="Room" asp-action="Index">Phòng</a></li>
+                                                    <li><a asp-controller="BookingForm" asp-action="Index">Đơn đặt phòng</a></li>
+                                                    <li><a asp-controller="DepositBill" asp-action="Index"></a>Hóa đơn</li>
+                                                </ul>
+                                            </li>
+                                        }
                                         <li><partial name="_LoginPartial.cshtml" /></li>
                                     </ul>
                                 </nav>
                             </div>
                         </div>
-                        <div class="col-xl-2 col-lg-2">
+                        @* <div class="col-xl-2 col-lg-2">
                             <!-- header-btn -->
                             <div class="header-btn">
                                 <a href="#" class="btn btn1 d-none d-lg-block ">Book Online</a>
@@ -88,7 +99,7 @@
                         <!-- Mobile Menu -->
                         <div class="col-12">
                             <div class="mobile_menu d-block d-lg-none"></div>
-                        </div>
+                        </div> *@
                     </div>
                 </div>
             </div>

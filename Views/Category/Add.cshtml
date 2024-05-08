@@ -9,11 +9,11 @@
     <h2>Thêm thể loại phòng</h2>
     <form asp-action="Add" method="post" enctype="multipart/form-data">
         <div class="form-group">
-            <label asp-for="CategoryName"></label>
+            <label asp-for="CategoryName">Tên thể loại</label>
             <input asp-for="CategoryName" class="form-control" />
             <span asp-validation-for="CategoryName" class="text-danger"></span>
         </div>
         <button type="submit" class="btn btn-primary">Thêm</button>
-        <button asp-action="Index" class="btn btn-close">Hủy</button>
+        <a asp-action="Index" class="btn btn-close">Hủy</a>
     </form>
 </body>
