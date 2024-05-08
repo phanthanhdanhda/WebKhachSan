@@ -18,6 +18,11 @@ namespace WebCK.Controllers
             _formRepository = formRepository;
             _context = context;
         }
+        public async Task<IActionResult> Index()
+        {
+            var forms = await _formRepository.GetAllAsync();
+            return View(forms);
+        }
         [HttpGet]
         public async Task<IActionResult> Add(int roomId)
         {
@@ -76,6 +81,22 @@ namespace WebCK.Controllers
                 return View(bill);
             }
             return View();
+        }
+        public async Task<IActionResult> Delete(int id)
+        {
+            var form = await _formRepository.GetByIdAsync(id);
+            if (form == null)
+            {
+                return NotFound();
+            }
+            return View(form);
+        }
+        // Xử lý xóa sản phẩm
+        [HttpPost, ActionName("DeleteConfirmed")]
+        public async Task<IActionResult> DeleteConfirmed(int id)
+        {
+            await _roomRepository.DeleteAsync(id);
+            return RedirectToAction(nameof(Index));
         }
     }
 }

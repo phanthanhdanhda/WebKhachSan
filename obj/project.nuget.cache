@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jVe5v3vUHCTZo+lnrfOBkvAjkmLtwmG1HdO/zywSTlHLI/4vceLIgjxPXf4OB/v0oDafp4u4AWdN+a+Du4dWKQ==",
+  "dgSpecHash": "ReWODPN0IkDuO3s8kpx7uEXdcD4EWiWF1O/lJU0KrD6K6rgTQtGWsa9WQ73vaC2fw5PYliDeDqksga0JvAYK0Q==",
   "success": true,
-  "projectFilePath": "D:\\device\\code exercises\\DACS\\WebCK\\WebCK.csproj",
+  "projectFilePath": "D:\\device\\code exercises\\DACS\\WebDA\\WebCK.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

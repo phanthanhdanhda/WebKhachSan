@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\device\\code exercises\\DACS\\WebCK\\WebCK.csproj": {}
+    "D:\\device\\code exercises\\DACS\\WebDA\\WebCK.csproj": {}
   },
   "projects": {
-    "D:\\device\\code exercises\\DACS\\WebCK\\WebCK.csproj": {
+    "D:\\device\\code exercises\\DACS\\WebDA\\WebCK.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\device\\code exercises\\DACS\\WebCK\\WebCK.csproj",
+        "projectUniqueName": "D:\\device\\code exercises\\DACS\\WebDA\\WebCK.csproj",
         "projectName": "WebCK",
-        "projectPath": "D:\\device\\code exercises\\DACS\\WebCK\\WebCK.csproj",
+        "projectPath": "D:\\device\\code exercises\\DACS\\WebDA\\WebCK.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\device\\code exercises\\DACS\\WebCK\\obj\\",
+        "outputPath": "D:\\device\\code exercises\\DACS\\WebDA\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

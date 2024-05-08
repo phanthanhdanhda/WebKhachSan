@@ -1,22 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\device\\code exercises\\DACS\\WebCK\\",
+  "WorkspaceRootPath": "D:\\device\\code exercises\\DACS\\WebDA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|d:\\device\\code exercises\\dacs\\webck\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|solutionrelative:views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|d:\\device\\code exercises\\dacs\\webda\\views\\bookingform\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|solutionrelative:views\\bookingform\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|d:\\device\\code exercises\\dacs\\webck\\views\\category\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|solutionrelative:views\\category\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|d:\\device\\code exercises\\dacs\\webda\\controllers\\bookingformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|solutionrelative:controllers\\bookingformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|d:\\device\\code exercises\\dacs\\webck\\views\\room\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|solutionrelative:views\\room\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|d:\\device\\code exercises\\dacs\\webda\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|solutionrelative:controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|d:\\device\\code exercises\\dacs\\webck\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|d:\\device\\code exercises\\dacs\\webda\\views\\bookingform\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|solutionrelative:views\\bookingform\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|d:\\device\\code exercises\\dacs\\webda\\views\\bookingform\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|solutionrelative:views\\bookingform\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +30,77 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\device\\code exercises\\DACS\\WebDA\\Views\\BookingForm\\Add.cshtml",
+              "RelativeDocumentMoniker": "Views\\BookingForm\\Add.cshtml",
+              "ToolTip": "D:\\device\\code exercises\\DACS\\WebDA\\Views\\BookingForm\\Add.cshtml",
+              "RelativeToolTip": "Views\\BookingForm\\Add.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T19:13:03.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\device\\code exercises\\DACS\\WebDA\\Views\\BookingForm\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\BookingForm\\Index.cshtml",
+              "ToolTip": "D:\\device\\code exercises\\DACS\\WebDA\\Views\\BookingForm\\Index.cshtml",
+              "RelativeToolTip": "Views\\BookingForm\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T19:09:37.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\device\\code exercises\\DACS\\WebDA\\Views\\BookingForm\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\BookingForm\\Delete.cshtml",
+              "ToolTip": "D:\\device\\code exercises\\DACS\\WebDA\\Views\\BookingForm\\Delete.cshtml",
+              "RelativeToolTip": "Views\\BookingForm\\Delete.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T18:53:24.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoomController.cs",
+              "DocumentMoniker": "D:\\device\\code exercises\\DACS\\WebDA\\Controllers\\RoomController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RoomController.cs",
+              "ToolTip": "D:\\device\\code exercises\\DACS\\WebDA\\Controllers\\RoomController.cs",
+              "RelativeToolTip": "Controllers\\RoomController.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAAwH0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:42:39.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookingFormController.cs",
+              "DocumentMoniker": "D:\\device\\code exercises\\DACS\\WebDA\\Controllers\\BookingFormController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookingFormController.cs",
+              "ToolTip": "D:\\device\\code exercises\\DACS\\WebDA\\Controllers\\BookingFormController.cs",
+              "RelativeToolTip": "Controllers\\BookingFormController.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAADwvyIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:42:23.119Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
@@ -39,57 +112,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Add.cshtml",
-              "DocumentMoniker": "D:\\device\\code exercises\\DACS\\WebCK\\Views\\Category\\Add.cshtml",
-              "RelativeDocumentMoniker": "Views\\Category\\Add.cshtml",
-              "ToolTip": "D:\\device\\code exercises\\DACS\\WebCK\\Views\\Category\\Add.cshtml",
-              "RelativeToolTip": "Views\\Category\\Add.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-08T15:23:10.68Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\device\\code exercises\\DACS\\WebCK\\Views\\Category\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Category\\Index.cshtml",
-              "ToolTip": "D:\\device\\code exercises\\DACS\\WebCK\\Views\\Category\\Index.cshtml",
-              "RelativeToolTip": "Views\\Category\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-08T08:12:48.117Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "D:\\device\\code exercises\\DACS\\WebCK\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
-              "ToolTip": "D:\\device\\code exercises\\DACS\\WebCK\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "Controllers\\CategoryController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBUAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T08:11:14.398Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\device\\code exercises\\DACS\\WebCK\\Views\\Room\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Room\\Index.cshtml",
-              "ToolTip": "D:\\device\\code exercises\\DACS\\WebCK\\Views\\Room\\Index.cshtml",
-              "RelativeToolTip": "Views\\Room\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-08T06:56:08.969Z",
-              "EditorCaption": ""
             }
           ]
         }

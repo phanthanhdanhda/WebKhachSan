@@ -1,0 +1,44 @@
+﻿@model WebCK.Models.BookingForm
+<body>
+    <h2>Hủy đơn đặt phòng</h2>
+    <form asp-action="DeleteConfirmed" method="post">
+        <input type="hidden" asp-for="Id" />
+        <div class="form-group">
+            <label asp-for="FullName">Tên</label>
+            <input asp-for="FullName" class="form-control" type="text" readonly value="@Model.FullName"/>
+            <span asp-validation-for="FullName" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Age">Tuổi</label>
+            <input asp-for="Age" class="form-control" type="number" readonly value="@Model.Age"/>
+        </div>
+        <div class="form-group">
+            <label asp-for="PhoneNumber">SĐT liên lạc</label>
+            <input asp-for="PhoneNumber" class="form-control" type="tel" readonly value= "@Model.PhoneNumber"/>
+        </div>
+        <div class="form-group">
+            <label asp-for="NumberOfGuests">Số người</label>
+            <input asp-for="NumberOfGuests" class="form-control" type="number" readonly value= "@Model.NumberOfGuests"/>
+            <span asp-validation-for="NumberOfGuests" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="CheckInDate">Ngày nhận phòng</label>
+            <input asp-for="CheckInDate" class="form-control" type="date" readonly value= "@Model.CheckInDate"/>
+        </div>
+        <div class="form-group">
+            <label asp-for="CheckOutDate">Ngày trả phòng</label>
+            <input asp-for="CheckOutDate" class="form-control" type="date" readonly value= "@Model.CheckOutDate"/>
+        </div>
+        <div class="form-group">
+            <label asp-for="BookingFee">Phí thuê</label>
+            <input asp-for="BookingFee" class="form-control" readonly value="@Model.BookingFee" />
+        </div>
+        <div class="form-group">
+            <label asp-for="Deposit">Tiền cọc</label>
+            <input asp-for="Deposit" class="form-control" readonly value="@Model.Deposit" />
+        </div>
+        <p>Bạn có muốn hủy không?</p>
+        <button type="submit" class="btn btn-danger">Xác nhận</button>
+        <button asp-action="Index" class="btn btn-close">Từ chối</button>
+    </form>
+</body>

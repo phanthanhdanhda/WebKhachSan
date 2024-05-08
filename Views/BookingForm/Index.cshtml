@@ -1,0 +1,51 @@
+﻿@model IEnumerable<WebCK.Models.BookingForm>
+<link rel="stylesheet" href="https://cdn.datatables.net/2.0.7/css/dataTables.dataTables.css" />
+<script src="https://cdn.datatables.net/2.0.7/js/dataTables.js"></script>
+<body>
+    <a asp-controller="form" asp-action="Add" class="btn btn-secondary">Thêm phòng</a>
+    <div class="container">
+        <table id="bangphong" class="display">
+            <thead style="background-color: gray; color: white">
+                <tr>
+                    <th>Ngày thuê</th>
+                    <th>Phòng đặt</th>
+                    <th>Ngày đến</th>
+                    <th>Ngày đi</th>
+                    <th>Giá thuê</th>
+                    <th>Tiền cọc</th>
+                    <th>Chức năng</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var form in Model)
+                {
+                    <tr>
+                        <td>@form.BookingDate</td>
+                        <td>@form.Room?.RoomName</td>
+                        <td>@form.CheckInDate</td>
+                        <td>@form.CheckOutDate</td>
+                        <td>@form.BookingFee</td>
+                        <td>@form.Deposit</td>
+                        <td>
+                            <a asp-action="Delete" asp-route-id="@form.Id" class="btn btn-dark">Hủy đặt phòng</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</body>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+<link rel="stylesheet" href="https://cdn.datatables.net/2.0.7/css/dataTables.dataTables.css" />
+
+<script src="https://cdn.datatables.net/2.0.7/js/dataTables.js"></script>
+
+
+<script type="text/javascript">
+    var js = jQuery.noConflict(true);
+    js(document).ready(function () {
+        js('#bangphong').DataTable();
+    });
+</script>
