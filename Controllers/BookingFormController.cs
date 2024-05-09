@@ -98,5 +98,16 @@ namespace WebCK.Controllers
             await _roomRepository.DeleteAsync(id);
             return RedirectToAction(nameof(Index));
         }
+        [HttpGet]
+        public async Task<IActionResult> PlaceOrder(int formId)
+        {
+            BookingForm form = await _formRepository.GetByIdAsync(formId);
+            if (form == null)
+            {
+                return NotFound();
+            }
+
+            return View(form);
+        }
     }
 }
