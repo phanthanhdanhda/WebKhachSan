@@ -1,29 +1,94 @@
-﻿@model WebCK.Models.DepositBill
+﻿@model DepositBill
 
-<body>
-    <h2>Your Bill</h2>
-    <div class="container">
-        <div class="form-group">
-            <label>FullName: </label>
-            <input class="form-control" readonly value="@ViewBag.Form.FullName" />
-        </div>
-        <div class="form-group">
-            <label>Age: </label>
-            <input class="form-control" readonly value="@ViewBag.Form.Age" />
-        </div>
-        <div class="form-group">
-            <label>PhoneNumber: </label>
-            <input class="form-control" readonly value="@ViewBag.Form.PhoneNumber" />
-        </div>
-        <div class="form-group">
-            <label>Selected Room: </label>
-            <input class="form-control" readonly value="@ViewBag.Form.Room.RoomName" />
-        </div>
-        <div class="form-group">
-            <label asp-for="TotalFee">Deposit Fee: </label>
-            <input asp-for="TotalFee" class="form-control" value="@ViewBag.Form.Deposit" required />
-            <span asp-validation-for="TotalFee" class="text-danger"></span>
-        </div>
-        <button type="submit" class="btn btn-primary">Confirm</button>
-    </div>
-</body>
+
+
+<div style="height:50px"></div>
+
+<div class="row">
+	<div class="col-7" style="float:left; padding-left:30px">
+		<div class="form-group">
+			<h2>Billing Details</h2>
+			<label>Tên: </label>
+			<br />
+			<input class="form-control" value="@ViewBag.Form.FullName" readonly/>
+			<br />
+			<label>Tuổi: </label>
+			<br />
+			<input class="form-control" value="@ViewBag.Form.Age" readonly />
+			<br />
+			<label>Phone: </label>
+			<br />
+			<input class="form-control" value="@ViewBag.Form.PhoneNumber" readonly />
+			<br />
+			<label>Số người: </label>
+			<br />
+			<input class="form-control" value="@ViewBag.Form.NumberOfGuests" readonly />
+			<br />
+			<label>Ngày đến: </label>
+			<br />
+			<input class="form-control" value="@ViewBag.Form.CheckInDate" readonly />
+			<br />
+			<label>Ngày đi: </label>
+			<br />
+			<input class="form-control" value="@ViewBag.Form.CheckOutDate" readonly />
+		</div>
+	</div>
+	@*can viet them phuong thuc post de thanh toan *@
+
+	<div class="col-5" style="padding-right:5px; padding-left:10px">
+		<form method="post" asp-action="">
+			<div class="row">
+				<div class="col-4"></div>
+				<div class="col-8">
+					<div class="row">
+						<div class="col-8">
+							<h2>Your Order</h2>
+						</div>
+						<div class="col-4"></div>
+						<hr>
+						<div class="col-6"><h2>@ViewBag.Form.Room?.RoomName</h2></div>
+						<div class="col-6"><h2>Total</h2></div>
+						<div class="col-6">
+							<p>Giá thuê</p>
+						</div>
+						<div class="col-6">
+							<p>@ViewBag.Form.BookingFee</p>
+						</div>
+						<div class="col-6">
+							<p>Tiền cọc</p>
+						</div>
+						<div class="col-6">
+							<p>@ViewBag.Form.Deposit</p>
+						</div>
+						<div class="col-6">
+							<p>Phải thanh toán</p>
+						</div>
+						<div class="col-6">
+							<p>@ViewBag.Form.Deposit</p>
+						</div>
+						@* <div class="col-6">
+							<p>SubTotal</p>
+						</div>
+						<div class="col-6">
+							<p>@(ViewBag.Form.BookingFee - ViewBag.Form.Deposit)</p>
+						</div> *@
+						<div class="col-6">
+							<p>Tổng cộng</p>
+						</div>
+						<div class="col-6">
+							<p>@ViewBag.Form.Deposit</p>
+						</div>
+						<br />
+						<br />
+						<button class="btn btn-primary" type="submit">Thanh toán</button>
+					</div>
+				</div>
+			</div>
+		</form>
+
+	</div>
+
+</div>
+
+
+<div style="height:50px"></div>

@@ -62,26 +62,7 @@ namespace WebCK.Controllers
         //    ViewBag.Room = room;
         //    return View();
         //}
-        //[HttpPost]
-        public async Task<IActionResult> ThanhToan(int formId, DepositBill bill)
-        {
-            var form = await _formRepository.GetByIdAsync(formId);
-            ViewBag.Form = form;
-            if(form != null)
-            {
-                bill.UserId = form.UserId;
-                bill.FormId = form.Id;
-                bill.TotalFee = form.Deposit;
-            }
-            if (ModelState.IsValid)
-            {
-                _context.Bills.Add(bill);
-                await _context.SaveChangesAsync(); // Use async version of SaveChanges
-
-                return View(bill);
-            }
-            return View();
-        }
+        
         public async Task<IActionResult> Delete(int id)
         {
             var form = await _formRepository.GetByIdAsync(id);
@@ -95,11 +76,11 @@ namespace WebCK.Controllers
         [HttpPost, ActionName("DeleteConfirmed")]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
-            await _roomRepository.DeleteAsync(id);
+            await _formRepository.DeleteAsync(id);
             return RedirectToAction(nameof(Index));
         }
         [HttpGet]
-        public async Task<IActionResult> PlaceOrder(int formId)
+        public async Task<IActionResult> ThanhToan(int formId)
         {
             BookingForm form = await _formRepository.GetByIdAsync(formId);
             if (form == null)
@@ -108,6 +89,26 @@ namespace WebCK.Controllers
             }
 
             return View(form);
+        }
+        [HttpPost]
+        public async Task<IActionResult> ThanhToan(int formId, DepositBill bill)
+        {
+            var form = await _formRepository.GetByIdAsync(formId);
+            ViewBag.Form = form;
+            if (form != null)
+            {
+                bill.UserId = form.UserId;
+                bill.FormId = form.Id;
+                bill.TotalFee = form.Deposit;
+            }
+            if (ModelState.IsValid)
+            {
+                _context.Bills.Add(bill);
+                await _context.SaveChangesAsync(); // Use async version of SaveChanges
+
+                return View(bill);
+            }
+            return View();
         }
     }
 }

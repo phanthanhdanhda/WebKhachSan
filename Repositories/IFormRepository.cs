@@ -8,5 +8,6 @@ namespace WebCK.Repositories
         Task<BookingForm> GetByIdAsync(int id);
         Task AddAsync(BookingForm form);
         Task UpdateAsync(BookingForm form);
+        Task DeleteAsync(int id);
     }
 }

@@ -31,5 +31,11 @@ namespace WebCK.Repositories
             _context.Forms.Update(BookingForm);
             await _context.SaveChangesAsync();
         }
+        public async Task DeleteAsync(int id)
+        {
+            var form = await _context.Forms.FindAsync(id);
+            _context.Forms.Remove(form);
+            await _context.SaveChangesAsync();
+        }
     }
 }
