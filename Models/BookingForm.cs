@@ -17,10 +17,8 @@ namespace WebCK.Models
         public int BookingFee { get; set; } = 0;
         public int Deposit { get; set; } = 0;
         public string? UserId { get; set; }
-        [ForeignKey("UserId")]
         public ApplicationUser? ApplicationUser { get; set; }
         public int? RoomId { get; set; }
-        [ForeignKey("RoomId")]
         public Room? Room { get; set; }
     }
 }

@@ -240,6 +240,9 @@ namespace WebCK.Migrations
                     b.Property<string>("Age")
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("ApplicationUserId")
+                        .HasColumnType("nvarchar(450)");
+
                     b.Property<DateTime>("BookingDate")
                         .HasColumnType("datetime2");
 
@@ -269,13 +272,13 @@ namespace WebCK.Migrations
                         .HasColumnType("int");
 
                     b.Property<string>("UserId")
-                        .HasColumnType("nvarchar(450)");
+                        .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
 
-                    b.HasIndex("RoomId");
+                    b.HasIndex("ApplicationUserId");
 
-                    b.HasIndex("UserId");
+                    b.HasIndex("RoomId");
 
                     b.ToTable("Forms");
                 });
@@ -311,6 +314,9 @@ namespace WebCK.Migrations
                     b.Property<string>("ApplicationUserId")
                         .HasColumnType("nvarchar(450)");
 
+                    b.Property<int?>("BookingFormId")
+                        .HasColumnType("int");
+
                     b.Property<DateTime>("DateCreated")
                         .HasColumnType("datetime2");
 
@@ -327,7 +333,7 @@ namespace WebCK.Migrations
 
                     b.HasIndex("ApplicationUserId");
 
-                    b.HasIndex("FormId");
+                    b.HasIndex("BookingFormId");
 
                     b.ToTable("Bills");
                 });
@@ -436,13 +442,13 @@ namespace WebCK.Migrations
 
             modelBuilder.Entity("WebCK.Models.BookingForm", b =>
                 {
+                    b.HasOne("WebCK.Models.ApplicationUser", "ApplicationUser")
+                        .WithMany()
+                        .HasForeignKey("ApplicationUserId");
+
                     b.HasOne("WebCK.Models.Room", "Room")
                         .WithMany()
                         .HasForeignKey("RoomId");
-
-                    b.HasOne("WebCK.Models.ApplicationUser", "ApplicationUser")
-                        .WithMany()
-                        .HasForeignKey("UserId");
 
                     b.Navigation("ApplicationUser");
 
@@ -457,7 +463,7 @@ namespace WebCK.Migrations
 
                     b.HasOne("WebCK.Models.BookingForm", "BookingForm")
                         .WithMany()
-                        .HasForeignKey("FormId");
+                        .HasForeignKey("BookingFormId");
 
                     b.Navigation("ApplicationUser");
 

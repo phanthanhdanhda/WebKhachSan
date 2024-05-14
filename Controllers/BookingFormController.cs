@@ -10,12 +10,14 @@ namespace WebCK.Controllers
     {
         private readonly IRoomRepository _roomRepository;
         private readonly IFormRepository _formRepository;
-        private readonly ApplicationDbContext _context;
+		private readonly IBillRepository _billRepository;
+		private readonly ApplicationDbContext _context;
         public BookingFormController(IRoomRepository roomRepository, IFormRepository formRepository,
-            ApplicationDbContext context) 
+            IBillRepository billRepository, ApplicationDbContext context) 
         {  
             _roomRepository = roomRepository;
             _formRepository = formRepository;
+            _billRepository = billRepository;
             _context = context;
         }
         public async Task<IActionResult> Index()
@@ -39,7 +41,7 @@ namespace WebCK.Controllers
             if (ModelState.IsValid)
             {
                 await _formRepository.AddAsync(form);
-                return RedirectToAction("Display", new { id = form.Id });
+                return RedirectToAction("ThanhToan", new { formid = form.Id });
             }
             return View(form);
         }
@@ -83,19 +85,20 @@ namespace WebCK.Controllers
         public async Task<IActionResult> ThanhToan(int formId)
         {
             BookingForm form = await _formRepository.GetByIdAsync(formId);
-            if (form == null)
+			ViewBag.Form = form;
+			if (form == null)
             {
                 return NotFound();
             }
 
-            return View(form);
+            return View();
         }
         [HttpPost]
         public async Task<IActionResult> ThanhToan(int formId, DepositBill bill)
         {
             var form = await _formRepository.GetByIdAsync(formId);
-            ViewBag.Form = form;
-            if (form != null)
+			ViewBag.Form = form;
+			if (form != null)
             {
                 bill.UserId = form.UserId;
                 bill.FormId = form.Id;
@@ -103,12 +106,11 @@ namespace WebCK.Controllers
             }
             if (ModelState.IsValid)
             {
-                _context.Bills.Add(bill);
-                await _context.SaveChangesAsync(); // Use async version of SaveChanges
+				await _billRepository.AddAsync(bill); // Use async version of SaveChanges
 
-                return View(bill);
-            }
-            return View();
+				return View();
+			}
+            return View(bill);
         }
     }
 }

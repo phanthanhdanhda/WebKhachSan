@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "D:\\device\\code exercises\\DACS\\WebDA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|d:\\device\\code exercises\\dacs\\webda\\controllers\\billcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|solutionrelative:controllers\\billcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|d:\\device\\code exercises\\dacs\\webda\\controllers\\bookingformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|solutionrelative:controllers\\bookingformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|d:\\device\\code exercises\\dacs\\webda\\repositories\\efformrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|solutionrelative:repositories\\efformrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|d:\\device\\code exercises\\dacs\\webda\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|d:\\device\\code exercises\\dacs\\webda\\repositories\\iformrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|solutionrelative:repositories\\iformrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|d:\\device\\code exercises\\dacs\\webda\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|d:\\device\\code exercises\\dacs\\webda\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|solutionrelative:controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|d:\\device\\code exercises\\dacs\\webda\\repositories\\efbillrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|solutionrelative:repositories\\efbillrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|d:\\device\\code exercises\\dacs\\webda\\repositories\\ibillrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|solutionrelative:repositories\\ibillrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|d:\\device\\code exercises\\dacs\\webda\\views\\bookingform\\thanhtoan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|solutionrelative:views\\bookingform\\thanhtoan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,80 +58,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BillController.cs",
-              "DocumentMoniker": "D:\\device\\code exercises\\DACS\\WebDA\\Controllers\\BillController.cs",
-              "RelativeDocumentMoniker": "Controllers\\BillController.cs",
-              "ToolTip": "D:\\device\\code exercises\\DACS\\WebDA\\Controllers\\BillController.cs",
-              "RelativeToolTip": "Controllers\\BillController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T04:36:20.269Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\device\\code exercises\\DACS\\WebDA\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\device\\code exercises\\DACS\\WebDA\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAADwAAAAAAAAAAAAAAFYAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-09T04:34:51.672Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IFormRepository.cs",
-              "DocumentMoniker": "D:\\device\\code exercises\\DACS\\WebDA\\Repositories\\IFormRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\IFormRepository.cs",
-              "ToolTip": "D:\\device\\code exercises\\DACS\\WebDA\\Repositories\\IFormRepository.cs",
-              "RelativeToolTip": "Repositories\\IFormRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T04:29:43.138Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "RoomController.cs",
               "DocumentMoniker": "D:\\device\\code exercises\\DACS\\WebDA\\Controllers\\RoomController.cs",
               "RelativeDocumentMoniker": "Controllers\\RoomController.cs",
               "ToolTip": "D:\\device\\code exercises\\DACS\\WebDA\\Controllers\\RoomController.cs",
               "RelativeToolTip": "Controllers\\RoomController.cs",
-              "ViewState": "AQIAAHcAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T04:26:56.513Z",
+              "WhenOpened": "2024-05-09T12:43:25.158Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EFFormRepository.cs",
-              "DocumentMoniker": "D:\\device\\code exercises\\DACS\\WebDA\\Repositories\\EFFormRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\EFFormRepository.cs",
-              "ToolTip": "D:\\device\\code exercises\\DACS\\WebDA\\Repositories\\EFFormRepository.cs",
-              "RelativeToolTip": "Repositories\\EFFormRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAaAAAA",
+              "DocumentIndex": 3,
+              "Title": "EFBillRepository.cs",
+              "DocumentMoniker": "D:\\device\\code exercises\\DACS\\WebDA\\Repositories\\EFBillRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EFBillRepository.cs",
+              "ToolTip": "D:\\device\\code exercises\\DACS\\WebDA\\Repositories\\EFBillRepository.cs",
+              "RelativeToolTip": "Repositories\\EFBillRepository.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowAYAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T04:23:25.612Z",
+              "WhenOpened": "2024-05-09T12:38:16.006Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "IBillRepository.cs",
+              "DocumentMoniker": "D:\\device\\code exercises\\DACS\\WebDA\\Repositories\\IBillRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IBillRepository.cs",
+              "ToolTip": "D:\\device\\code exercises\\DACS\\WebDA\\Repositories\\IBillRepository.cs",
+              "RelativeToolTip": "Repositories\\IBillRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T12:30:19.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ThanhToan.cshtml",
+              "DocumentMoniker": "D:\\device\\code exercises\\DACS\\WebDA\\Views\\BookingForm\\ThanhToan.cshtml",
+              "RelativeDocumentMoniker": "Views\\BookingForm\\ThanhToan.cshtml",
+              "ToolTip": "D:\\device\\code exercises\\DACS\\WebDA\\Views\\BookingForm\\ThanhToan.cshtml",
+              "RelativeToolTip": "Views\\BookingForm\\ThanhToan.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAE4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T11:40:46.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "BookingFormController.cs",
               "DocumentMoniker": "D:\\device\\code exercises\\DACS\\WebDA\\Controllers\\BookingFormController.cs",
               "RelativeDocumentMoniker": "Controllers\\BookingFormController.cs",
               "ToolTip": "D:\\device\\code exercises\\DACS\\WebDA\\Controllers\\BookingFormController.cs",
               "RelativeToolTip": "Controllers\\BookingFormController.cs",
-              "ViewState": "AQIAAFUAAAAAAAAAAAAowE4AAAAyAAAA",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAswG4AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-09T04:16:24.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\device\\code exercises\\DACS\\WebDA\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\device\\code exercises\\DACS\\WebDA\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-09T12:49:39.101Z",
               "EditorCaption": ""
             }
           ]
