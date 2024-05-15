@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yW5ZQyEWAWo3VZK7gTjngzv2fwuf/ob7OTZmlw+iYDtVs/qKD9PV5LQHAiICb/MDJzXSAH/1gKUPV65D9mpyXg==",
+  "dgSpecHash": "siNxrQCkl48WZ7uE/mFzrkZWS9NG5KyqyBUgy/RO2ekTBsMGsQzfiv6g+VoJmv3hvtefyNDszGDHpPYHiaKVDw==",
   "success": true,
-  "projectFilePath": "D:\\WebDoAn\\WebCK.csproj",
+  "projectFilePath": "D:\\WebDoAn01\\WebCK.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tien1\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\tien1\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

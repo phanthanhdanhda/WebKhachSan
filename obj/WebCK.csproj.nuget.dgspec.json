@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WebDoAn\\WebCK.csproj": {}
+    "D:\\WebDoAn01\\WebCK.csproj": {}
   },
   "projects": {
-    "D:\\WebDoAn\\WebCK.csproj": {
+    "D:\\WebDoAn01\\WebCK.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WebDoAn\\WebCK.csproj",
+        "projectUniqueName": "D:\\WebDoAn01\\WebCK.csproj",
         "projectName": "WebCK",
-        "projectPath": "D:\\WebDoAn\\WebCK.csproj",
+        "projectPath": "D:\\WebDoAn01\\WebCK.csproj",
         "packagesPath": "C:\\Users\\tien1\\.nuget\\packages\\",
-        "outputPath": "D:\\WebDoAn\\obj\\",
+        "outputPath": "D:\\WebDoAn01\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
