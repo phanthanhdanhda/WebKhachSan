@@ -4,45 +4,50 @@
 <body>
     <div class="container">
         <h3>Create Booking Form</h3>
-        <form method="post">
-            <div class="form-group">
-                <label asp-for="FullName">Tên</label>
-                <input asp-for="FullName" class="form-control" type="text" />
-                <span asp-validation-for="FullName" class="text-danger"></span>
+        <form method="post" enctype="multipart/form-data">
+            <div class="row">
+                <div class="form-group col-7">
+                    <label asp-for="FullName">Tên</label>
+                    <input asp-for="FullName" class="form-control" type="text" />
+                    <span asp-validation-for="FullName" class="text-danger"></span>
+                </div>
+                <div class="form-group col-2">
+                    <label asp-for="Age">Tuổi</label>
+                    <input asp-for="Age" class="form-control" type="number" />
+                </div>
+                <div class="form-group col-3">
+                    <label asp-for="PhoneNumber">SĐT liên lạc</label>
+                    <input asp-for="PhoneNumber" class="form-control" type="tel" />
+                </div>
+                <div class="form-group col-4">
+                    <label asp-for="NumberOfGuests">Số người</label>
+                    <input asp-for="NumberOfGuests" class="form-control" type="number" />
+                    <span asp-validation-for="NumberOfGuests" class="text-danger"></span>
+                </div>
+                <div class="form-group col-4">
+                    <label asp-for="CheckInDate">Ngày nhận phòng</label>
+                    <input asp-for="CheckInDate" class="form-control" type="date" />
+                    <span asp-validation-for="CheckInDate" class="text-danger"></span>
+                </div>
+                <div class="form-group col-4">
+                    <label asp-for="CheckOutDate">Ngày trả phòng</label>
+                    <input asp-for="CheckOutDate" class="form-control" type="date" />
+                    <span asp-validation-for="CheckOutDate" class="text-danger"></span>
+                </div>
+                <div class="form-group col-6">
+                    <label asp-for="BookingFee">Phí thuê</label>
+                    <input asp-for="BookingFee" class="form-control" readonly value="@ViewBag.RoomPrice" />
+                </div>
+                <div class="form-group col-6">
+                    <label asp-for="Deposit">Tiền cọc</label>
+                    <input asp-for="Deposit" class="form-control" readonly value="@ViewBag.Deposit" />
+                </div>
+                <div class>
+                    <button type="submit" class="btn btn-primary">Xác nhận</button>  
+                    <button onclick="goBack()" class="btn btn-primary">Hủy</button>
+                </div>
             </div>
-            <div class="form-group">
-                <label asp-for="Age">Tuổi</label>
-                <input asp-for="Age" class="form-control" type="number" />
-            </div>
-            <div class="form-group">
-                <label asp-for="PhoneNumber">SĐT liên lạc</label>
-                <input asp-for="PhoneNumber" class="form-control" type="tel" />
-            </div>
-            <div class="form-group">
-                <label asp-for="NumberOfGuests">Số người</label>
-                <input asp-for="NumberOfGuests" class="form-control" type="number" />
-                <span asp-validation-for="NumberOfGuests" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="CheckInDate">Ngày nhận phòng</label>
-                <input asp-for="CheckInDate" class="form-control" type="date" />
-                <span asp-validation-for="CheckInDate" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="CheckOutDate">Ngày trả phòng</label>
-                <input asp-for="CheckOutDate" class="form-control" type="date" />
-                <span asp-validation-for="CheckOutDate" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="BookingFee">Phí thuê</label>
-                <input asp-for="BookingFee" class="form-control" readonly value="@ViewBag.RoomPrice" />
-            </div>
-            <div class="form-group">
-                <label asp-for="Deposit">Tiền cọc</label>
-                <input asp-for="Deposit" class="form-control" readonly value="@ViewBag.Deposit" />
-            </div>
-            <button type="submit" class="btn btn-primary">Xác nhận</button>
-            <button onclick="goBack()" class="btn btn-primary">Hủy</button>
+            
         </form>
     </div>
 </body>

@@ -7,7 +7,7 @@
 <div class="row">
 	<div class="col-7" style="float:left; padding-left:30px">
 		<div class="form-group">
-			<h2>Billing Details</h2>
+			<h2>Thông tin đặt phòng</h2>
 			<label>Tên: </label>
 			<br />
 			<input class="form-control" value="@ViewBag.Form.FullName" readonly/>
@@ -36,35 +36,35 @@
 	@*can viet them phuong thuc post de thanh toan *@
 
 	<div class="col-5" style="padding-right:5px; padding-left:10px">
-		<form method="post" asp-action="">
+		<form method="post" enctype="multipart/form-data">
 			<div class="row">
 				<div class="col-4"></div>
 				<div class="col-8">
 					<div class="row">
 						<div class="col-8">
-							<h2>Your Order</h2>
+							<h2>Hóa đơn</h2>
 						</div>
 						<div class="col-4"></div>
 						<hr>
-						<div class="col-6"><h2>@ViewBag.Form.Room?.RoomName</h2></div>
-						<div class="col-6"><h2>Total</h2></div>
+						@* <div class="col-6"><h2>@ViewBag.Form.Room?.RoomName</h2></div>
+						<div class="col-6"><h2>Total</h2></div> *@
 						<div class="col-6">
-							<p>Giá thuê</p>
+							<p><b>Giá thuê</b></p>
 						</div>
 						<div class="col-6">
-							<p>@ViewBag.Form.BookingFee</p>
+							<p><b>@ViewBag.Form.BookingFee</b></p>
 						</div>
 						<div class="col-6">
-							<p>Tiền cọc</p>
+							<p><b>Tiền cọc</b></p>
 						</div>
 						<div class="col-6">
-							<p>@ViewBag.Form.Deposit</p>
+							<p><b>@ViewBag.Form.Deposit</b></p>
 						</div>
 						<div class="col-6">
-							<p>Phải thanh toán</p>
+							<p><b>Phải thanh toán</b></p>
 						</div>
 						<div class="col-6">
-							<p>@ViewBag.Form.Deposit</p>
+							<p><b>@ViewBag.Form.Deposit</b></p>
 						</div>
 						@* <div class="col-6">
 							<p>SubTotal</p>
@@ -73,14 +73,13 @@
 							<p>@(ViewBag.Form.BookingFee - ViewBag.Form.Deposit)</p>
 						</div> *@
 						<div class="col-6">
-							<p>Tổng cộng</p>
+							<p><b>Tổng cộng</b></p>
 						</div>
 						<div class="col-6">
-							<p>@ViewBag.Form.Deposit</p>
+							<p><b><u>@ViewBag.Form.Deposit</u></b></p>
 						</div>
 						<br />
-						<br />
-						<button class="btn btn-primary" type="submit">Thanh toán</button>
+						<button class="btn btn-primary" type="submit">Xác nhận</button>
 					</div>
 				</div>
 			</div>

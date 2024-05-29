@@ -121,7 +121,7 @@ namespace WebCK.Areas.Identity.Pages.Account
                     var user = await _userManager.FindByEmailAsync(Input.Email);
                     if (await _userManager.IsInRoleAsync(user, "Admin"))
                     {
-                        returnUrl = Url.Content("~/Room/Index");
+                        returnUrl = Url.Content("~/Home/Index");
 
                     }
                     return LocalRedirect(returnUrl);

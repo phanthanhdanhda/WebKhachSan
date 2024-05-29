@@ -1,46 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\WebDoAn01\\",
+  "WorkspaceRootPath": "D:\\device\\code exercises\\DACS\\DACS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|d:\\webdoan01\\views\\bookingform\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|solutionrelative:views\\bookingform\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|d:\\webdoan01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|d:\\webdoan01\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|d:\\webdoan01\\views\\room\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|d:\\device\\code exercises\\dacs\\dacs\\views\\room\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|solutionrelative:views\\room\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|d:\\webdoan01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|d:\\device\\code exercises\\dacs\\dacs\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|solutionrelative:views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|d:\\webdoan01\\controllers\\bookingformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|solutionrelative:controllers\\bookingformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|d:\\device\\code exercises\\dacs\\dacs\\views\\bookingform\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|solutionrelative:views\\bookingform\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|d:\\webdoan01\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|solutionrelative:controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|d:\\device\\code exercises\\dacs\\dacs\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|d:\\webdoan01\\repositories\\efbillrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|solutionrelative:repositories\\efbillrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|d:\\webdoan01\\repositories\\ibillrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|solutionrelative:repositories\\ibillrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|d:\\webdoan01\\views\\bookingform\\thanhtoan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|solutionrelative:views\\bookingform\\thanhtoan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|d:\\device\\code exercises\\dacs\\dacs\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,8 +30,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
@@ -65,134 +49,69 @@
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\WebDoAn01\\Views\\BookingForm\\Index.cshtml",
+              "DocumentMoniker": "D:\\device\\code exercises\\DACS\\DACS\\Views\\BookingForm\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\BookingForm\\Index.cshtml",
-              "ToolTip": "D:\\WebDoAn01\\Views\\BookingForm\\Index.cshtml",
+              "ToolTip": "D:\\device\\code exercises\\DACS\\DACS\\Views\\BookingForm\\Index.cshtml",
               "RelativeToolTip": "Views\\BookingForm\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAUAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-15T16:11:21.767Z",
+              "WhenOpened": "2024-05-29T16:16:35.069Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\WebDoAn01\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\WebDoAn01\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAEIBAAAAAAAAAAAAAHEBAAAtAAAA",
+              "DocumentMoniker": "D:\\device\\code exercises\\DACS\\DACS\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Category\\Index.cshtml",
+              "ToolTip": "D:\\device\\code exercises\\DACS\\DACS\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-15T05:23:21.308Z",
+              "WhenOpened": "2024-05-29T16:16:22.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\device\\code exercises\\DACS\\DACS\\Views\\Room\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Room\\Index.cshtml",
+              "ToolTip": "D:\\device\\code exercises\\DACS\\DACS\\Views\\Room\\Index.cshtml",
+              "RelativeToolTip": "Views\\Room\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T16:14:25.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\device\\code exercises\\DACS\\DACS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\device\\code exercises\\DACS\\DACS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAE4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T15:42:09.129Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\WebDoAn01\\Views\\Room\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Room\\Index.cshtml",
-              "ToolTip": "D:\\WebDoAn01\\Views\\Room\\Index.cshtml",
-              "RelativeToolTip": "Views\\Room\\Index.cshtml",
-              "ViewState": "AQIAADMAAAAAAAAAAAAAADwAAAAZAAAA",
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\device\\code exercises\\DACS\\DACS\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\device\\code exercises\\DACS\\DACS\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-15T05:22:48.915Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\WebDoAn01\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\WebDoAn01\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAM8AAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-15T05:22:33.079Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "RoomController.cs",
-              "DocumentMoniker": "D:\\WebDoAn01\\Controllers\\RoomController.cs",
-              "RelativeDocumentMoniker": "Controllers\\RoomController.cs",
-              "ToolTip": "D:\\WebDoAn01\\Controllers\\RoomController.cs",
-              "RelativeToolTip": "Controllers\\RoomController.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAwwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T12:43:25.158Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "EFBillRepository.cs",
-              "DocumentMoniker": "D:\\WebDoAn01\\Repositories\\EFBillRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\EFBillRepository.cs",
-              "ToolTip": "D:\\WebDoAn01\\Repositories\\EFBillRepository.cs",
-              "RelativeToolTip": "Repositories\\EFBillRepository.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAowAYAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T12:38:16.006Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IBillRepository.cs",
-              "DocumentMoniker": "D:\\WebDoAn01\\Repositories\\IBillRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\IBillRepository.cs",
-              "ToolTip": "D:\\WebDoAn01\\Repositories\\IBillRepository.cs",
-              "RelativeToolTip": "Repositories\\IBillRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T12:30:19.216Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ThanhToan.cshtml",
-              "DocumentMoniker": "D:\\WebDoAn01\\Views\\BookingForm\\ThanhToan.cshtml",
-              "RelativeDocumentMoniker": "Views\\BookingForm\\ThanhToan.cshtml",
-              "ToolTip": "D:\\WebDoAn01\\Views\\BookingForm\\ThanhToan.cshtml",
-              "RelativeToolTip": "Views\\BookingForm\\ThanhToan.cshtml",
-              "ViewState": "AQIAADkAAAAAAAAAAAAAAE4AAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-09T11:40:46.48Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BookingFormController.cs",
-              "DocumentMoniker": "D:\\WebDoAn01\\Controllers\\BookingFormController.cs",
-              "RelativeDocumentMoniker": "Controllers\\BookingFormController.cs",
-              "ToolTip": "D:\\WebDoAn01\\Controllers\\BookingFormController.cs",
-              "RelativeToolTip": "Controllers\\BookingFormController.cs",
-              "ViewState": "AQIAAE0AAAAAAAAAAAAYwG4AAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T04:16:24.737Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\WebDoAn01\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\WebDoAn01\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-09T12:49:39.101Z"
+              "WhenOpened": "2024-05-29T15:32:19.454Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -2,23 +2,23 @@
 <link rel="stylesheet" href="https://cdn.datatables.net/2.0.7/css/dataTables.dataTables.css" />
 <script src="https://cdn.datatables.net/2.0.7/js/dataTables.js"></script>
 <body>
-    <a asp-controller="Room" asp-action="Add" class="btn btn-secondary">Thêm phòng</a>
     <div class="container">
+        <a asp-controller="Room" asp-action="Add" class="btn btn-secondary">Thêm phòng</a>
         <table id="bangphong" class="display">
             <thead style="background-color: gray; color: white">
                 <tr>
-                    <th>Hình ảnh</th>
+                    <th style="max-width: 300px">Hình ảnh</th>
                     <th>Tên phòng</th>
                     <th>Giá thuê</th>
                     <th>Loại phòng</th>
-                    <th>Chức năng</th>
+                    <th style="max-width: 400px">Chức năng</th>
                 </tr>
             </thead>
             <tbody>
-                @foreach(var room in Model)
+                @foreach (var room in Model)
                 {
                     <tr>
-                        <td><img src="@room.Image" style="height:50%; width:50%"/></td>
+                        <td><img src="@room.Image" style="height:50%; width:50%" /></td>
                         <td>@room.RoomName</td>
                         <td>@room.Price</td>
                         <td>@room.Category?.CategoryName</td>
@@ -43,9 +43,29 @@
 <script type="text/javascript">
     var js = jQuery.noConflict(true);
     js(document).ready(function () {
-        js('#bangphong').DataTable();
+        js('#bangphong').DataTable({
+            "language": {
+                "sProcessing": "Đang xử lý...",
+                "sLengthMenu": "Xem _MENU_ mục",
+                "sZeroRecords": "Không tìm thấy dòng nào phù hợp",
+                "sInfo": "Đang xem _START_ đến _END_ trong tổng số _TOTAL_ mục",
+                "sInfoEmpty": "Đang xem 0 đến 0 trong tổng số 0 mục",
+                "sInfoFiltered": "(được lọc từ _MAX_ mục)",
+                "sInfoPostFix": "",
+                "sSearch": "Tìm:",
+                "sUrl": "",
+                "oPaginate": {
+                    "sFirst": "Đầu",
+                    "sPrevious": "Trước",
+                    "sNext": "Tiếp",
+                    "sLast": "Cuối"
+                }
+            }
+        });
     });
 </script>
+
+
 @* <body>
     <section class="room-area r-padding1">
         <div class="container">

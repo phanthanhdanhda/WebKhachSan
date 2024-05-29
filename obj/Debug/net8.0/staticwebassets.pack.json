@@ -1,1107 +1,1107 @@
 {
   "Files": [
     {
-      "Id": "D:\\WebDoAn01\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebCK.bundle.scp.css",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebCK.bundle.scp.css",
       "PackagePath": "staticwebassets\\WebCK.bundle.scp.css"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\css\\animate.min.css",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\css\\animate.min.css",
       "PackagePath": "staticwebassets\\css\\animate.min.css"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\css\\bootstrap.min.css",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\css\\fontawesome-all.min.css",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\css\\fontawesome-all.min.css",
       "PackagePath": "staticwebassets\\css\\fontawesome-all.min.css"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\css\\gijgo.css",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\css\\gijgo.css",
       "PackagePath": "staticwebassets\\css\\gijgo.css"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\css\\magnific-popup.css",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\css\\magnific-popup.css",
       "PackagePath": "staticwebassets\\css\\magnific-popup.css"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\css\\main.css",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\css\\main.css",
       "PackagePath": "staticwebassets\\css\\main.css"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\css\\main.map",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\css\\main.map",
       "PackagePath": "staticwebassets\\css\\main.map"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\css\\nice-select.css",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\css\\nice-select.css",
       "PackagePath": "staticwebassets\\css\\nice-select.css"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\css\\owl.carousel.min.css",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\css\\owl.carousel.min.css",
       "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\css\\responsive.css",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\css\\responsive.css",
       "PackagePath": "staticwebassets\\css\\responsive.css"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\css\\slick.css",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\css\\slick.css",
       "PackagePath": "staticwebassets\\css\\slick.css"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\css\\slicknav.css",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\css\\slicknav.css",
       "PackagePath": "staticwebassets\\css\\slicknav.css"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\css\\style.css",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\css\\themify-icons.css",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\css\\themify-icons.css",
       "PackagePath": "staticwebassets\\css\\themify-icons.css"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\favicon.ico",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\fonts\\ElegantIcons.eot",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\fonts\\ElegantIcons.eot",
       "PackagePath": "staticwebassets\\fonts\\ElegantIcons.eot"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\fonts\\ElegantIcons.svg",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\fonts\\ElegantIcons.svg",
       "PackagePath": "staticwebassets\\fonts\\ElegantIcons.svg"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\fonts\\ElegantIcons.ttf",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\fonts\\ElegantIcons.ttf",
       "PackagePath": "staticwebassets\\fonts\\ElegantIcons.ttf"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\fonts\\ElegantIcons.woff",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\fonts\\ElegantIcons.woff",
       "PackagePath": "staticwebassets\\fonts\\ElegantIcons.woff"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\fonts\\fa-brands-400.eot",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\fonts\\fa-brands-400.eot",
       "PackagePath": "staticwebassets\\fonts\\fa-brands-400.eot"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\fonts\\fa-brands-400.svg",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\fonts\\fa-brands-400.svg",
       "PackagePath": "staticwebassets\\fonts\\fa-brands-400.svg"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\fonts\\fa-brands-400.ttf",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\fonts\\fa-brands-400.ttf",
       "PackagePath": "staticwebassets\\fonts\\fa-brands-400.ttf"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\fonts\\fa-brands-400.woff",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\fonts\\fa-brands-400.woff",
       "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\fonts\\fa-brands-400.woff2",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\fonts\\fa-brands-400.woff2",
       "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff2"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\fonts\\fa-regular-400.eot",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\fonts\\fa-regular-400.eot",
       "PackagePath": "staticwebassets\\fonts\\fa-regular-400.eot"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\fonts\\fa-regular-400.svg",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\fonts\\fa-regular-400.svg",
       "PackagePath": "staticwebassets\\fonts\\fa-regular-400.svg"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\fonts\\fa-regular-400.ttf",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\fonts\\fa-regular-400.ttf",
       "PackagePath": "staticwebassets\\fonts\\fa-regular-400.ttf"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\fonts\\fa-regular-400.woff",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\fonts\\fa-regular-400.woff",
       "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\fonts\\fa-regular-400.woff2",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\fonts\\fa-regular-400.woff2",
       "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff2"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\fonts\\fa-solid-900.eot",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\fonts\\fa-solid-900.eot",
       "PackagePath": "staticwebassets\\fonts\\fa-solid-900.eot"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\fonts\\fa-solid-900.svg",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\fonts\\fa-solid-900.svg",
       "PackagePath": "staticwebassets\\fonts\\fa-solid-900.svg"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\fonts\\fa-solid-900.ttf",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\fonts\\fa-solid-900.ttf",
       "PackagePath": "staticwebassets\\fonts\\fa-solid-900.ttf"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\fonts\\fa-solid-900.woff",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\fonts\\fa-solid-900.woff",
       "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\fonts\\fa-solid-900.woff2",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\fonts\\fa-solid-900.woff2",
       "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff2"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\fonts\\gijgo-material.eot",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\fonts\\gijgo-material.eot",
       "PackagePath": "staticwebassets\\fonts\\gijgo-material.eot"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\fonts\\gijgo-material.svg",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\fonts\\gijgo-material.svg",
       "PackagePath": "staticwebassets\\fonts\\gijgo-material.svg"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\fonts\\gijgo-material.ttf",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\fonts\\gijgo-material.ttf",
       "PackagePath": "staticwebassets\\fonts\\gijgo-material.ttf"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\fonts\\gijgo-material.woff",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\fonts\\gijgo-material.woff",
       "PackagePath": "staticwebassets\\fonts\\gijgo-material.woff"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\fonts\\themify.eot",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\fonts\\themify.eot",
       "PackagePath": "staticwebassets\\fonts\\themify.eot"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\fonts\\themify.svg",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\fonts\\themify.svg",
       "PackagePath": "staticwebassets\\fonts\\themify.svg"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\fonts\\themify.ttf",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\fonts\\themify.ttf",
       "PackagePath": "staticwebassets\\fonts\\themify.ttf"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\fonts\\themify.woff",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\fonts\\themify.woff",
       "PackagePath": "staticwebassets\\fonts\\themify.woff"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\about\\about_lft.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\about\\about_lft.png",
       "PackagePath": "staticwebassets\\img\\about\\about_lft.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\about\\about_right.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\about\\about_right.png",
       "PackagePath": "staticwebassets\\img\\about\\about_right.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\about\\pet_care.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\about\\pet_care.png",
       "PackagePath": "staticwebassets\\img\\about\\pet_care.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\adapt_icon\\1.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\adapt_icon\\1.png",
       "PackagePath": "staticwebassets\\img\\adapt_icon\\1.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\adapt_icon\\1.svg",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\adapt_icon\\1.svg",
       "PackagePath": "staticwebassets\\img\\adapt_icon\\1.svg"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\adapt_icon\\2.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\adapt_icon\\2.png",
       "PackagePath": "staticwebassets\\img\\adapt_icon\\2.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\adapt_icon\\3.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\adapt_icon\\3.png",
       "PackagePath": "staticwebassets\\img\\adapt_icon\\3.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\banner\\banner.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\banner\\banner.png",
       "PackagePath": "staticwebassets\\img\\banner\\banner.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\banner\\bradcam.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\banner\\bradcam.png",
       "PackagePath": "staticwebassets\\img\\banner\\bradcam.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\banner\\contact_bg.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\banner\\contact_bg.png",
       "PackagePath": "staticwebassets\\img\\banner\\contact_bg.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\banner\\dog.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\banner\\dog.png",
       "PackagePath": "staticwebassets\\img\\banner\\dog.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\banner\\img.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\banner\\img.png",
       "PackagePath": "staticwebassets\\img\\banner\\img.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\blog\\author.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\blog\\author.png",
       "PackagePath": "staticwebassets\\img\\blog\\author.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\blog\\blog_1.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\blog\\blog_1.png",
       "PackagePath": "staticwebassets\\img\\blog\\blog_1.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\blog\\blog_2.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\blog\\blog_2.png",
       "PackagePath": "staticwebassets\\img\\blog\\blog_2.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\blog\\blog_3.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\blog\\blog_3.png",
       "PackagePath": "staticwebassets\\img\\blog\\blog_3.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\blog\\blog_4.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\blog\\blog_4.png",
       "PackagePath": "staticwebassets\\img\\blog\\blog_4.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\blog\\learn_about_bg.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\blog\\learn_about_bg.png",
       "PackagePath": "staticwebassets\\img\\blog\\learn_about_bg.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\blog\\single_blog_1.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\blog\\single_blog_1.png",
       "PackagePath": "staticwebassets\\img\\blog\\single_blog_1.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\blog\\single_blog_2.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\blog\\single_blog_2.png",
       "PackagePath": "staticwebassets\\img\\blog\\single_blog_2.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\blog\\single_blog_3.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\blog\\single_blog_3.png",
       "PackagePath": "staticwebassets\\img\\blog\\single_blog_3.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\blog\\single_blog_4.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\blog\\single_blog_4.png",
       "PackagePath": "staticwebassets\\img\\blog\\single_blog_4.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\blog\\single_blog_5.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\blog\\single_blog_5.png",
       "PackagePath": "staticwebassets\\img\\blog\\single_blog_5.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\blog\\slide_thumb_1.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\blog\\slide_thumb_1.png",
       "PackagePath": "staticwebassets\\img\\blog\\slide_thumb_1.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\comment\\comment_1.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\comment\\comment_1.png",
       "PackagePath": "staticwebassets\\img\\comment\\comment_1.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\comment\\comment_2.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\comment\\comment_2.png",
       "PackagePath": "staticwebassets\\img\\comment\\comment_2.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\comment\\comment_3.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\comment\\comment_3.png",
       "PackagePath": "staticwebassets\\img\\comment\\comment_3.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\customer\\customar1.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\customer\\customar1.png",
       "PackagePath": "staticwebassets\\img\\customer\\customar1.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\customer\\customar2.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\customer\\customar2.png",
       "PackagePath": "staticwebassets\\img\\customer\\customar2.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\customer\\customar_bg.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\customer\\customar_bg.png",
       "PackagePath": "staticwebassets\\img\\customer\\customar_bg.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\customer\\cutomer.jpg",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\customer\\cutomer.jpg",
       "PackagePath": "staticwebassets\\img\\customer\\cutomer.jpg"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\dining\\dining-img.jpg",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\dining\\dining-img.jpg",
       "PackagePath": "staticwebassets\\img\\dining\\dining-img.jpg"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\dining\\dining-img.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\dining\\dining-img.png",
       "PackagePath": "staticwebassets\\img\\dining\\dining-img.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\dining\\dining-img2.jpg",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\dining\\dining-img2.jpg",
       "PackagePath": "staticwebassets\\img\\dining\\dining-img2.jpg"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\dining\\dining-img2.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\dining\\dining-img2.png",
       "PackagePath": "staticwebassets\\img\\dining\\dining-img2.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\elements\\a.jpg",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\elements\\a.jpg",
       "PackagePath": "staticwebassets\\img\\elements\\a.jpg"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\elements\\a2.jpg",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\elements\\a2.jpg",
       "PackagePath": "staticwebassets\\img\\elements\\a2.jpg"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\elements\\d.jpg",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\elements\\d.jpg",
       "PackagePath": "staticwebassets\\img\\elements\\d.jpg"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\elements\\disabled-check.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\elements\\disabled-check.png",
       "PackagePath": "staticwebassets\\img\\elements\\disabled-check.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\elements\\disabled-radio.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\elements\\disabled-radio.png",
       "PackagePath": "staticwebassets\\img\\elements\\disabled-radio.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\elements\\f1.jpg",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\elements\\f1.jpg",
       "PackagePath": "staticwebassets\\img\\elements\\f1.jpg"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\elements\\f2.jpg",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\elements\\f2.jpg",
       "PackagePath": "staticwebassets\\img\\elements\\f2.jpg"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\elements\\f3.jpg",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\elements\\f3.jpg",
       "PackagePath": "staticwebassets\\img\\elements\\f3.jpg"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\elements\\f4.jpg",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\elements\\f4.jpg",
       "PackagePath": "staticwebassets\\img\\elements\\f4.jpg"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\elements\\f5.jpg",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\elements\\f5.jpg",
       "PackagePath": "staticwebassets\\img\\elements\\f5.jpg"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\elements\\f6.jpg",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\elements\\f6.jpg",
       "PackagePath": "staticwebassets\\img\\elements\\f6.jpg"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\elements\\f7.jpg",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\elements\\f7.jpg",
       "PackagePath": "staticwebassets\\img\\elements\\f7.jpg"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\elements\\f8.jpg",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\elements\\f8.jpg",
       "PackagePath": "staticwebassets\\img\\elements\\f8.jpg"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\elements\\g1.jpg",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\elements\\g1.jpg",
       "PackagePath": "staticwebassets\\img\\elements\\g1.jpg"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\elements\\g2.jpg",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\elements\\g2.jpg",
       "PackagePath": "staticwebassets\\img\\elements\\g2.jpg"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\elements\\g3.jpg",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\elements\\g3.jpg",
       "PackagePath": "staticwebassets\\img\\elements\\g3.jpg"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\elements\\g4.jpg",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\elements\\g4.jpg",
       "PackagePath": "staticwebassets\\img\\elements\\g4.jpg"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\elements\\g5.jpg",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\elements\\g5.jpg",
       "PackagePath": "staticwebassets\\img\\elements\\g5.jpg"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\elements\\g6.jpg",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\elements\\g6.jpg",
       "PackagePath": "staticwebassets\\img\\elements\\g6.jpg"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\elements\\g7.jpg",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\elements\\g7.jpg",
       "PackagePath": "staticwebassets\\img\\elements\\g7.jpg"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\elements\\g8.jpg",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\elements\\g8.jpg",
       "PackagePath": "staticwebassets\\img\\elements\\g8.jpg"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\elements\\primary-check.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\elements\\primary-check.png",
       "PackagePath": "staticwebassets\\img\\elements\\primary-check.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\elements\\primary-radio.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\elements\\primary-radio.png",
       "PackagePath": "staticwebassets\\img\\elements\\primary-radio.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\elements\\success-check.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\elements\\success-check.png",
       "PackagePath": "staticwebassets\\img\\elements\\success-check.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\elements\\success-radio.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\elements\\success-radio.png",
       "PackagePath": "staticwebassets\\img\\elements\\success-radio.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\favicon.ico",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\favicon.ico",
       "PackagePath": "staticwebassets\\img\\favicon.ico"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\gallery\\1.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\gallery\\1.png",
       "PackagePath": "staticwebassets\\img\\gallery\\1.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\gallery\\2.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\gallery\\2.png",
       "PackagePath": "staticwebassets\\img\\gallery\\2.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\gallery\\3.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\gallery\\3.png",
       "PackagePath": "staticwebassets\\img\\gallery\\3.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\gallery\\gallery1.jpg",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\gallery\\gallery1.jpg",
       "PackagePath": "staticwebassets\\img\\gallery\\gallery1.jpg"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\gallery\\gallery2.jpg",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\gallery\\gallery2.jpg",
       "PackagePath": "staticwebassets\\img\\gallery\\gallery2.jpg"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\gallery\\gallery3.jpg",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\gallery\\gallery3.jpg",
       "PackagePath": "staticwebassets\\img\\gallery\\gallery3.jpg"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\gallery\\video.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\gallery\\video.png",
       "PackagePath": "staticwebassets\\img\\gallery\\video.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\hero\\aboutpage_hero.jpg",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\hero\\aboutpage_hero.jpg",
       "PackagePath": "staticwebassets\\img\\hero\\aboutpage_hero.jpg"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\hero\\contact_hero.jpg",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\hero\\contact_hero.jpg",
       "PackagePath": "staticwebassets\\img\\hero\\contact_hero.jpg"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\hero\\footer_logo.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\hero\\footer_logo.png",
       "PackagePath": "staticwebassets\\img\\hero\\footer_logo.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\hero\\h1_hero.jpg",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\hero\\h1_hero.jpg",
       "PackagePath": "staticwebassets\\img\\hero\\h1_hero.jpg"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\hero\\roomspage_hero.jpg",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\hero\\roomspage_hero.jpg",
       "PackagePath": "staticwebassets\\img\\hero\\roomspage_hero.jpg"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\hero\\servicespage_hero.jpg",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\hero\\servicespage_hero.jpg",
       "PackagePath": "staticwebassets\\img\\hero\\servicespage_hero.jpg"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\logo\\date-picker-icon.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\logo\\date-picker-icon.png",
       "PackagePath": "staticwebassets\\img\\logo\\date-picker-icon.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\logo\\form-iocn.jpg",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\logo\\form-iocn.jpg",
       "PackagePath": "staticwebassets\\img\\logo\\form-iocn.jpg"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\logo\\logo.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\logo\\logo.png",
       "PackagePath": "staticwebassets\\img\\logo\\logo.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\logo\\logo2_footer.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\logo\\logo2_footer.png",
       "PackagePath": "staticwebassets\\img\\logo\\logo2_footer.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\logo\\select-items-icon.jpg",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\logo\\select-items-icon.jpg",
       "PackagePath": "staticwebassets\\img\\logo\\select-items-icon.jpg"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\logo\\testimonial.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\logo\\testimonial.png",
       "PackagePath": "staticwebassets\\img\\logo\\testimonial.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\offers\\1.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\offers\\1.png",
       "PackagePath": "staticwebassets\\img\\offers\\1.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\offers\\2.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\offers\\2.png",
       "PackagePath": "staticwebassets\\img\\offers\\2.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\offers\\3.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\offers\\3.png",
       "PackagePath": "staticwebassets\\img\\offers\\3.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\our_blog\\blog-comments-icon.jpg",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\our_blog\\blog-comments-icon.jpg",
       "PackagePath": "staticwebassets\\img\\our_blog\\blog-comments-icon.jpg"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\our_blog\\blog-img1.jpg",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\our_blog\\blog-img1.jpg",
       "PackagePath": "staticwebassets\\img\\our_blog\\blog-img1.jpg"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\our_blog\\blog-img2.jpg",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\our_blog\\blog-img2.jpg",
       "PackagePath": "staticwebassets\\img\\our_blog\\blog-img2.jpg"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\our_blog\\blog-img3.jpg",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\our_blog\\blog-img3.jpg",
       "PackagePath": "staticwebassets\\img\\our_blog\\blog-img3.jpg"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\post\\next.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\post\\next.png",
       "PackagePath": "staticwebassets\\img\\post\\next.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\post\\post_1.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\post\\post_1.png",
       "PackagePath": "staticwebassets\\img\\post\\post_1.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\post\\post_10.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\post\\post_10.png",
       "PackagePath": "staticwebassets\\img\\post\\post_10.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\post\\post_2.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\post\\post_2.png",
       "PackagePath": "staticwebassets\\img\\post\\post_2.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\post\\post_3.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\post\\post_3.png",
       "PackagePath": "staticwebassets\\img\\post\\post_3.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\post\\post_4.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\post\\post_4.png",
       "PackagePath": "staticwebassets\\img\\post\\post_4.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\post\\post_5.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\post\\post_5.png",
       "PackagePath": "staticwebassets\\img\\post\\post_5.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\post\\post_6.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\post\\post_6.png",
       "PackagePath": "staticwebassets\\img\\post\\post_6.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\post\\post_7.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\post\\post_7.png",
       "PackagePath": "staticwebassets\\img\\post\\post_7.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\post\\post_8.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\post\\post_8.png",
       "PackagePath": "staticwebassets\\img\\post\\post_8.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\post\\post_9.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\post\\post_9.png",
       "PackagePath": "staticwebassets\\img\\post\\post_9.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\post\\preview.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\post\\preview.png",
       "PackagePath": "staticwebassets\\img\\post\\preview.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\prising\\1.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\prising\\1.png",
       "PackagePath": "staticwebassets\\img\\prising\\1.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\prising\\10.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\prising\\10.png",
       "PackagePath": "staticwebassets\\img\\prising\\10.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\prising\\2.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\prising\\2.png",
       "PackagePath": "staticwebassets\\img\\prising\\2.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\prising\\3.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\prising\\3.png",
       "PackagePath": "staticwebassets\\img\\prising\\3.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\prising\\4.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\prising\\4.png",
       "PackagePath": "staticwebassets\\img\\prising\\4.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\prising\\5.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\prising\\5.png",
       "PackagePath": "staticwebassets\\img\\prising\\5.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\prising\\6.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\prising\\6.png",
       "PackagePath": "staticwebassets\\img\\prising\\6.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\prising\\7.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\prising\\7.png",
       "PackagePath": "staticwebassets\\img\\prising\\7.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\prising\\8.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\prising\\8.png",
       "PackagePath": "staticwebassets\\img\\prising\\8.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\prising\\9.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\prising\\9.png",
       "PackagePath": "staticwebassets\\img\\prising\\9.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\rooms\\PhongKS1.jpg",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\rooms\\PhongKS1.jpg",
       "PackagePath": "staticwebassets\\img\\rooms\\PhongKS1.jpg"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\rooms\\PhongKS2.jpg",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\rooms\\PhongKS2.jpg",
       "PackagePath": "staticwebassets\\img\\rooms\\PhongKS2.jpg"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\rooms\\PhongKS3.jpg",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\rooms\\PhongKS3.jpg",
       "PackagePath": "staticwebassets\\img\\rooms\\PhongKS3.jpg"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\rooms\\room1.jpg",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\rooms\\room1.jpg",
       "PackagePath": "staticwebassets\\img\\rooms\\room1.jpg"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\rooms\\room2.jpg",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\rooms\\room2.jpg",
       "PackagePath": "staticwebassets\\img\\rooms\\room2.jpg"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\rooms\\room3.jpg",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\rooms\\room3.jpg",
       "PackagePath": "staticwebassets\\img\\rooms\\room3.jpg"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\rooms\\room4.jpg",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\rooms\\room4.jpg",
       "PackagePath": "staticwebassets\\img\\rooms\\room4.jpg"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\rooms\\room5.jpg",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\rooms\\room5.jpg",
       "PackagePath": "staticwebassets\\img\\rooms\\room5.jpg"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\rooms\\room6.jpg",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\rooms\\room6.jpg",
       "PackagePath": "staticwebassets\\img\\rooms\\room6.jpg"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\service\\1.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\service\\1.png",
       "PackagePath": "staticwebassets\\img\\service\\1.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\service\\2.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\service\\2.png",
       "PackagePath": "staticwebassets\\img\\service\\2.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\service\\3.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\service\\3.png",
       "PackagePath": "staticwebassets\\img\\service\\3.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\service\\service_icon_1.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\service\\service_icon_1.png",
       "PackagePath": "staticwebassets\\img\\service\\service_icon_1.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\service\\service_icon_2.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\service\\service_icon_2.png",
       "PackagePath": "staticwebassets\\img\\service\\service_icon_2.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\service\\service_icon_3.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\service\\service_icon_3.png",
       "PackagePath": "staticwebassets\\img\\service\\service_icon_3.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\service\\service_icon_bg_1.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\service\\service_icon_bg_1.png",
       "PackagePath": "staticwebassets\\img\\service\\service_icon_bg_1.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\team\\1.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\team\\1.png",
       "PackagePath": "staticwebassets\\img\\team\\1.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\team\\2.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\team\\2.png",
       "PackagePath": "staticwebassets\\img\\team\\2.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\team\\3.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\team\\3.png",
       "PackagePath": "staticwebassets\\img\\team\\3.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\img\\testmonial\\1.png",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\img\\testmonial\\1.png",
       "PackagePath": "staticwebassets\\img\\testmonial\\1.png"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\js\\animated.headline.js",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\js\\animated.headline.js",
       "PackagePath": "staticwebassets\\js\\animated.headline.js"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\js\\bootstrap.min.js",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\js\\contact.js",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\js\\contact.js",
       "PackagePath": "staticwebassets\\js\\contact.js"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\js\\gijgo.min.js",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\js\\gijgo.min.js",
       "PackagePath": "staticwebassets\\js\\gijgo.min.js"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\js\\jquery.ajaxchimp.min.js",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\js\\jquery.ajaxchimp.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.ajaxchimp.min.js"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\js\\jquery.form.js",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\js\\jquery.form.js",
       "PackagePath": "staticwebassets\\js\\jquery.form.js"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\js\\jquery.magnific-popup.js",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\js\\jquery.magnific-popup.js",
       "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.js"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\js\\jquery.nice-select.min.js",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\js\\jquery.nice-select.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.nice-select.min.js"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\js\\jquery.paroller.min.js",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\js\\jquery.paroller.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.paroller.min.js"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\js\\jquery.scrollUp.min.js",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\js\\jquery.scrollUp.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.scrollUp.min.js"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\js\\jquery.slicknav.min.js",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\js\\jquery.slicknav.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.slicknav.min.js"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\js\\jquery.sticky.js",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\js\\jquery.sticky.js",
       "PackagePath": "staticwebassets\\js\\jquery.sticky.js"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\js\\jquery.validate.min.js",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\js\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\js\\mail-script.js",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\js\\mail-script.js",
       "PackagePath": "staticwebassets\\js\\mail-script.js"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\js\\main.js",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\js\\main.js",
       "PackagePath": "staticwebassets\\js\\main.js"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\js\\one-page-nav-min.js",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\js\\one-page-nav-min.js",
       "PackagePath": "staticwebassets\\js\\one-page-nav-min.js"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\js\\owl.carousel.min.js",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\js\\owl.carousel.min.js",
       "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\js\\plugins.js",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\js\\plugins.js",
       "PackagePath": "staticwebassets\\js\\plugins.js"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\js\\popper.min.js",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\js\\popper.min.js",
       "PackagePath": "staticwebassets\\js\\popper.min.js"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\js\\slick.min.js",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\js\\slick.min.js",
       "PackagePath": "staticwebassets\\js\\slick.min.js"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\js\\slicknav.css",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\js\\slicknav.css",
       "PackagePath": "staticwebassets\\js\\slicknav.css"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\js\\vendor\\jquery-1.12.4.min.js",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\js\\vendor\\jquery-1.12.4.min.js",
       "PackagePath": "staticwebassets\\js\\vendor\\jquery-1.12.4.min.js"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\js\\vendor\\modernizr-3.5.0.min.js",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\js\\vendor\\modernizr-3.5.0.min.js",
       "PackagePath": "staticwebassets\\js\\vendor\\modernizr-3.5.0.min.js"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\js\\wow.min.js",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\js\\wow.min.js",
       "PackagePath": "staticwebassets\\js\\wow.min.js"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\scss\\_blog.scss",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\scss\\_blog.scss",
       "PackagePath": "staticwebassets\\scss\\_blog.scss"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\scss\\_blog_page.scss",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\scss\\_blog_page.scss",
       "PackagePath": "staticwebassets\\scss\\_blog_page.scss"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\scss\\_booking.scss",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\scss\\_booking.scss",
       "PackagePath": "staticwebassets\\scss\\_booking.scss"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\scss\\_bradcam.scss",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\scss\\_bradcam.scss",
       "PackagePath": "staticwebassets\\scss\\_bradcam.scss"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\scss\\_color.scss",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\scss\\_color.scss",
       "PackagePath": "staticwebassets\\scss\\_color.scss"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\scss\\_common.scss",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\scss\\_common.scss",
       "PackagePath": "staticwebassets\\scss\\_common.scss"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\scss\\_contact.scss",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\scss\\_contact.scss",
       "PackagePath": "staticwebassets\\scss\\_contact.scss"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\scss\\_customer.scss",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\scss\\_customer.scss",
       "PackagePath": "staticwebassets\\scss\\_customer.scss"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\scss\\_dining.scss",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\scss\\_dining.scss",
       "PackagePath": "staticwebassets\\scss\\_dining.scss"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\scss\\_elements.scss",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\scss\\_elements.scss",
       "PackagePath": "staticwebassets\\scss\\_elements.scss"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\scss\\_extend.scss",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\scss\\_extend.scss",
       "PackagePath": "staticwebassets\\scss\\_extend.scss"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\scss\\_footer.scss",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\scss\\_footer.scss",
       "PackagePath": "staticwebassets\\scss\\_footer.scss"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\scss\\_gallery.scss",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\scss\\_gallery.scss",
       "PackagePath": "staticwebassets\\scss\\_gallery.scss"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\scss\\_h1-hero.scss",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\scss\\_h1-hero.scss",
       "PackagePath": "staticwebassets\\scss\\_h1-hero.scss"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\scss\\_headerMenu.scss",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\scss\\_headerMenu.scss",
       "PackagePath": "staticwebassets\\scss\\_headerMenu.scss"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\scss\\_mixins.scss",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\scss\\_mixins.scss",
       "PackagePath": "staticwebassets\\scss\\_mixins.scss"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\scss\\_overlay.scss",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\scss\\_overlay.scss",
       "PackagePath": "staticwebassets\\scss\\_overlay.scss"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\scss\\_reset.scss",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\scss\\_reset.scss",
       "PackagePath": "staticwebassets\\scss\\_reset.scss"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\scss\\_room.scss",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\scss\\_room.scss",
       "PackagePath": "staticwebassets\\scss\\_room.scss"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\scss\\_testimonial.scss",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\scss\\_testimonial.scss",
       "PackagePath": "staticwebassets\\scss\\_testimonial.scss"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\scss\\_variables.scss",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\scss\\_variables.scss",
       "PackagePath": "staticwebassets\\scss\\_variables.scss"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\scss\\main.scss",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\scss\\main.scss",
       "PackagePath": "staticwebassets\\scss\\main.scss"
     },
     {
-      "Id": "D:\\WebDoAn01\\wwwroot\\scss\\services.scss",
+      "Id": "D:\\device\\code exercises\\DACS\\DACS\\wwwroot\\scss\\services.scss",
       "PackagePath": "staticwebassets\\scss\\services.scss"
     },
     {

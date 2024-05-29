@@ -8601,24 +8601,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\tien1\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WebDoAn01\\WebCK.csproj",
+      "projectUniqueName": "D:\\device\\code exercises\\DACS\\DACS\\WebCK.csproj",
       "projectName": "WebCK",
-      "projectPath": "D:\\WebDoAn01\\WebCK.csproj",
-      "packagesPath": "C:\\Users\\tien1\\.nuget\\packages\\",
-      "outputPath": "D:\\WebDoAn01\\obj\\",
+      "projectPath": "D:\\device\\code exercises\\DACS\\DACS\\WebCK.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "D:\\device\\code exercises\\DACS\\DACS\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\tien1\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -1,12 +1,45 @@
 ﻿@model WebCK.Models.BookingForm
-<body>
-    <h2>@ViewBag.Name</h2>
-    <div>
-        <h3>Number of guests: @Model.NumberOfGuests</h3>
-        <h3>Check in date: @Model.CheckInDate</h3>
-        <h3>Check out date: @Model.CheckOutDate</h3>
-        <h3>Price: @Model.BookingFee</h3>
-        <h3>Deposit: @Model.Deposit</h3>
-    </div>
-    @* <a asp-action="Index">Back to List</a> *@
-</body>
+
+
+
+<div style="height:50px"></div>
+
+<div class="row">
+	<div class="col-7" style="float:left; padding-left:30px">
+		<div class="form-group">
+			<h2>Billing Details</h2>
+			<label>Tên: </label>
+			<br />
+			<input class="form-control" value="@Model.FullName" readonly />
+			<br />
+			<label>Tuổi: </label>
+			<br />
+			<input class="form-control" value="@Model.Age" readonly />
+			<br />
+			<label>Phone: </label>
+			<br />
+			<input class="form-control" value="@Model.PhoneNumber" readonly />
+			<br />
+			<label>Số người: </label>
+			<br />
+			<input class="form-control" value="@Model.NumberOfGuests" readonly />
+			<br />
+			<label>Ngày đến: </label>
+			<br />
+			<input class="form-control" value="@Model.CheckInDate" readonly />
+			<br />
+			<label>Ngày đi: </label>
+			<br />
+			<input class="form-control" value="@Model.CheckOutDate" readonly />
+			<br />
+			<a asp-action="ThanhToan" class="btn btn-primary" asp-route-formId="@Model.Id">Thanh Toán</a>
+		</div>
+	</div>
+	
+
+	</div>
+
+</div>
+
+
+<div style="height:50px"></div>

@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebCK")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac87768851680a4d8943d74240e76b61d968561f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5ab20b69e5dae90fe0ef018d6b6b11ffa193513")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebCK")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebCK")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

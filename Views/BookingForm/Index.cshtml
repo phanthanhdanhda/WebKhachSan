@@ -3,7 +3,7 @@
 <script src="https://cdn.datatables.net/2.0.7/js/dataTables.js"></script>
 <body>
     <div class="container">
-        <table id="bangphong" class="display">
+        <table id="bangdondatphong" class="display">
             <thead style="background-color: gray; color: white">
                 <tr>
                     <th>Ngày thuê</th>
@@ -45,6 +45,24 @@
 <script type="text/javascript">
     var js = jQuery.noConflict(true);
     js(document).ready(function () {
-        js('#bangphong').DataTable();
+        js('#bangdondatphong').DataTable({
+            "language": {
+                "sProcessing": "Đang xử lý...",
+                "sLengthMenu": "Xem _MENU_ mục",
+                "sZeroRecords": "Không tìm thấy dòng nào phù hợp",
+                "sInfo": "Đang xem _START_ đến _END_ trong tổng số _TOTAL_ mục",
+                "sInfoEmpty": "Đang xem 0 đến 0 trong tổng số 0 mục",
+                "sInfoFiltered": "(được lọc từ _MAX_ mục)",
+                "sInfoPostFix": "",
+                "sSearch": "Tìm:",
+                "sUrl": "",
+                "oPaginate": {
+                    "sFirst": "Đầu",
+                    "sPrevious": "Trước",
+                    "sNext": "Tiếp",
+                    "sLast": "Cuối"
+                }
+            }
+        });
     });
 </script>

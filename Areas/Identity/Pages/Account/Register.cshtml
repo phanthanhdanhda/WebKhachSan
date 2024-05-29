@@ -9,12 +9,12 @@
 <div class="row" style="margin-left:35%">
     <div class="col-md-6">
         <form id="registerForm" asp-route-returnUrl="@Model.ReturnUrl" method="post">
-            <h2>Create a new account.</h2>
+            <h2>Đăng ký 1 tài  khoản mới</h2>
             <hr />
             <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
             <div class="form-floating mb-3">
                 <input asp-for="Input.FullName" class="form-control" autocomplete="fullname" aria-required="true" />
-                <label asp-for="Input.FullName">FullName</label>
+                <label asp-for="Input.FullName">Tên</label>
                 <span asp-validation-for="Input.FullName" class="text-danger"></span>
             </div>
             <div class="form-floating mb-3">
@@ -24,20 +24,20 @@
             </div>
             <div class="form-floating mb-3">
                 <input asp-for="Input.Password" class="form-control" autocomplete="new-password" aria-required="true" placeholder="password" />
-                <label asp-for="Input.Password">Password</label>
+                <label asp-for="Input.Password">Mật khẩu</label>
                 <span asp-validation-for="Input.Password" class="text-danger"></span>
             </div>
             <div class="form-floating mb-3">
                 <input asp-for="Input.ConfirmPassword" class="form-control" autocomplete="new-password" aria-required="true" placeholder="password" />
-                <label asp-for="Input.ConfirmPassword">Confirm Password</label>
+                <label asp-for="Input.ConfirmPassword">Xác nhận mật khẩu</label>
                 <span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
             </div>
             <div class="form-floating col-6">
                 <select asp-for="Input.Role" asp-items="@Model.Input.RoleList" class="form-select">
-                    <option disabled selected>Chon Role</option>
+                    <option disabled selected>Chọn loại tài khoản</option>
                 </select>
             </div>
-            <button id="registerSubmit" type="submit" class="w-100 btn btn-lg btn-primary">Register</button>
+            <button id="registerSubmit" type="submit" class="w-100 btn btn-lg btn-primary">Đăng ký</button>
         </form>
     </div>
     

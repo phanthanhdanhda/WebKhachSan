@@ -9,5 +9,6 @@
             <img src="@Model.Image" style="max-width:200px;" />
         }
     </div>
-    <a asp-action="Index">Back to List</a>
+    <button asp-controller="BookingForm" asp-action="Add" asp-route-roomId="@Model.Id">Đặt phòng</button>
+    <a asp-action="Index" class="btn btn-primary">Back to List</a>
 </body>

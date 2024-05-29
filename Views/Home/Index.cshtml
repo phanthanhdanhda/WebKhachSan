@@ -13,8 +13,8 @@
                     <div class="row justify-content-center text-center">
                         <div class="col-xl-9">
                             <div class="h1-slider-caption">
-                                <h1 data-animation="fadeInUp" data-delay=".4s">top hotel in the city</h1>
-                                <h3 data-animation="fadeInDown" data-delay=".4s">Hotel & Resourt</h3>
+                                <h1 data-animation="fadeInUp" data-delay=".4s">Khách Sạn Hàng Đầu Trong Thành Phố</h1>
+                                <h3 data-animation="fadeInDown" data-delay=".4s">Khách Sạn & Nghỉ Dưỡng</h3>
                             </div>
                         </div>
                     </div>
@@ -24,7 +24,7 @@
     </div>
     <!-- slider Area End-->
     <!-- Booking Room Start-->
-    <div class="booking-area">
+@*     <div class="booking-area">
         <div class="container">
             <div class="row ">
                 <div class="col-12">
@@ -116,10 +116,10 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> *@    
     <!-- Booking Room End-->
     <!-- Make customer Start-->
-    <section class="make-customer-area customar-padding fix">
+    @* <section class="make-customer-area customar-padding fix">
         <div class="container-fluid p-0">
             <div class="row">
                 <div class="col-xl-5 col-lg-6">
@@ -135,16 +135,16 @@
                     <div class="customer-caption">
                         <span>Về Công Ty Chúng Tôi </span>
                         <h2>Làm cho khách hàng trở thành anh hùng trong câu chuyện của bạny</h2>
-@*                         <div class="caption-details">
+                        <div class="caption-details">
                             <p class="pera-dtails">Lorem ipsum dolor sit amet, consectetur adipisic- ing elit, sed do eiusmod tempor inc. </p>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. </p>
                             <a href="#" class="btn more-btn1">Learn More <i class="ti-angle-right"></i> </a>
-                        </div> *@
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
-    </section>
+    </section> *@
     <!-- Make customer End-->
     <!-- Room Start -->
     <section class="room-area">
@@ -154,7 +154,7 @@
                     <!--font-back-tittle  -->
                     <div class="font-back-tittle mb-45">
                         <div class="archivment-front">
-                            <h3>Our Rooms</h3>
+                            <h3>Xem Phòng</h3>
                         </div>
                         <h3 class="archivment-back">Our Rooms</h3>
                     </div>
@@ -167,10 +167,10 @@
                         <!-- Single Room -->
                         <div class="single-room mb-50">
                             <div class="room-img">
-                                <a><img src="@room.Image" alt="anhphong"></a>
+                                <a asp-controller="Room" asp-action="Display" asp-route-id="@room.Id"><img src="@room.Image" alt="anhphong"></a>
                             </div>
                             <div class="room-caption">
-                                <h3><a href="rooms.html">@room.RoomName</a></h3>
+                                <h3><a asp-controller="Room" asp-action="Display" asp-route-id="@room.Id">@room.RoomName</a></h3>
                                 <div class="per-night">
                                     <span>@room.Price VNĐ <span>/ đêm</span></span>
                                 </div>
@@ -253,7 +253,7 @@
             </div>
             <div class="row justify-content-center">
                 <div class="room-btn pt-70">
-                    <a asp-controller="Room" asp-action="Index" class="btn view-btn1">Xem Thêm Phòng <i class="ti-angle-right"></i> </a>
+                    <a asp-controller="Room" asp-action="Index" class="btn view-btn1">Xem Thêm<i class="ti-angle-right"></i> </a>
                 </div>
             </div>
         </div>
@@ -261,7 +261,7 @@
     </section>
     <!-- Room End -->
     <!-- Dining Start -->
-    <div class="dining-area dining-padding-top">
+    @* <div class="dining-area dining-padding-top">
         <!-- Single Left img -->
         <div class="single-dining-area left-img">
             <div class="container">
@@ -270,8 +270,8 @@
                         <div class="dining-caption">
                             <span>Nhà hàng Khách Sạn</span>
                             <h3>Đồ ăn & Đồ uống</h3>
-@*                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod<br> tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim <br>veniam, quis nostrud.</p>
-                            <a href="#" class="btn border-btn">Learn More <i class="ti-angle-right"></i> </a> *@
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod<br> tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim <br>veniam, quis nostrud.</p>
+                            <a href="#" class="btn border-btn">Learn More <i class="ti-angle-right"></i> </a>
                         </div>
                     </div>
                 </div>
@@ -285,17 +285,17 @@
                         <div class="dining-caption text-right">
                             <span>Phòng Khách Sạn</span>
                             <h3>Hồ Bơi</h3>
-@*                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod<br> tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim <br>veniam, quis nostrud.</p>
-                            <a href="#" class="btn border-btn">Learn More  <i class="ti-angle-right"></i></a> *@
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod<br> tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim <br>veniam, quis nostrud.</p>
+                            <a href="#" class="btn border-btn">Learn More  <i class="ti-angle-right"></i></a>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
+    </div> *@
     <!-- Dining End -->
-@*     <!-- Testimonial Start -->
-    <div class="testimonial-area testimonial-padding">
+    <!-- Testimonial Start -->
+    @* <div class="testimonial-area testimonial-padding">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-xl-9 col-lg-9 col-md-9">
@@ -357,10 +357,10 @@
                 </div>
             </div>
         </div>
-    </div>
-    <!-- Testimonial End --> *@
-@*     <!-- Blog Start -->
-    <div class="blog-area blog-padding">
+    </div> *@
+    <!-- Testimonial End -->
+    <!-- Blog Start -->
+    @* <div class="blog-area blog-padding">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-xl-8">
@@ -442,10 +442,10 @@
                 </div>
             </div>
         </div>
-    </div>
-    <!-- Blog End --> *@
+    </div> *@
+    <!-- Blog End -->
     <!-- Gallery img Start-->
-    <div class="gallery-area fix">
+    @* <div class="gallery-area fix">
         <div class="container-fluid p-0">
             <div class="row">
                 <div class="col-md-12">
@@ -463,6 +463,6 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> *@
     <!-- Gallery img End-->
 </main>

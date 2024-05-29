@@ -2,9 +2,9 @@
 <link rel="stylesheet" href="https://cdn.datatables.net/2.0.7/css/dataTables.dataTables.css" />
 <script src="https://cdn.datatables.net/2.0.7/js/dataTables.js"></script>
 <body>
-    <a asp-controller="Category" asp-action="Add" class="btn btn-primary">Thêm thể loại</a>
     <div class="container">
-        <table id="bangtheloai" class="display">
+        <a asp-controller="Category" asp-action="Add" class="btn btn-primary">Thêm thể loại</a>
+        <table class="table" id="bangtheloai">
             <thead style="background-color: gray; color: white">
                 <tr>
                     <th>Tên thể loại</th>
@@ -39,6 +39,24 @@
 <script type="text/javascript">
     var js = jQuery.noConflict(true);
     js(document).ready(function () {
-        js('#bangtheloai').DataTable();
+        js('#bangtheloai').DataTable({
+            "language": {
+                "sProcessing": "Đang xử lý...",
+                "sLengthMenu": "Xem _MENU_ mục",
+                "sZeroRecords": "Không tìm thấy dòng nào phù hợp",
+                "sInfo": "Đang xem _START_ đến _END_ trong tổng số _TOTAL_ mục",
+                "sInfoEmpty": "Đang xem 0 đến 0 trong tổng số 0 mục",
+                "sInfoFiltered": "(được lọc từ _MAX_ mục)",
+                "sInfoPostFix": "",
+                "sSearch": "Tìm:",
+                "sUrl": "",
+                "oPaginate": {
+                    "sFirst": "Đầu",
+                    "sPrevious": "Trước",
+                    "sNext": "Tiếp",
+                    "sLast": "Cuối"
+                }
+            }
+        });
     });
 </script>

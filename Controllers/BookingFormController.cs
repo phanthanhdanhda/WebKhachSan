@@ -41,14 +41,13 @@ namespace WebCK.Controllers
             if (ModelState.IsValid)
             {
                 await _formRepository.AddAsync(form);
-                return RedirectToAction("ThanhToan", new { formid = form.Id });
+                return RedirectToAction("Display", new { id = form.Id });
             }
             return View(form);
         }
         public async Task<IActionResult> Display(int id)
         {
             var form = await _formRepository.GetByIdAsync(id);
-            ViewBag.Name = form.FullName;
             if (form == null)
             {
                 return NotFound();
@@ -97,13 +96,14 @@ namespace WebCK.Controllers
         public async Task<IActionResult> ThanhToan(int formId, DepositBill bill)
         {
             var form = await _formRepository.GetByIdAsync(formId);
-			ViewBag.Form = form;
-			if (form != null)
+            ViewBag.Form = form;
+            if (form != null)
             {
                 bill.UserId = form.UserId;
                 bill.FormId = form.Id;
                 bill.TotalFee = form.Deposit;
             }
+            else return NotFound();
             if (ModelState.IsValid)
             {
 				await _billRepository.AddAsync(bill); // Use async version of SaveChanges
