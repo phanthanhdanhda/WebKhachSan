@@ -14,13 +14,13 @@ namespace WebCK.Repositories
 		public async Task<IEnumerable<DepositBill>> GetAllAsync()
 		{
 			// return await _context.Categories.ToListAsync();
-			return await _context.Bills.ToListAsync();
+			return await _context.Bills.Include(b=>b.BookingForm).ToListAsync();
 		}
 		public async Task<DepositBill> GetByIdAsync(int id)
 		{
 			// return await _context.Categories.FindAsync(id);
 			// lấy thông tin kèm theo category
-			return await _context.Bills.FirstOrDefaultAsync(c => c.Id == id);
+			return await _context.Bills.Include(b=>b.BookingForm).FirstOrDefaultAsync(b => b.Id == id);
 		}
 		public async Task AddAsync(DepositBill bill)
 		{

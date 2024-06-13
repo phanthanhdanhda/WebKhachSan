@@ -1,14 +1,35 @@
 ﻿@model WebCK.Models.Room
 <body>
-    <h2>@Model.RoomName</h2>
-    <div>
-        <h3>Price: @Model.Price</h3>
-        <p>@Model.Description</p>
-        @if (!string.IsNullOrEmpty(Model.Image))
-        {
-            <img src="@Model.Image" style="max-width:200px;" />
-        }
-    </div>
-    <button asp-controller="BookingForm" asp-action="Add" asp-route-roomId="@Model.Id">Đặt phòng</button>
-    <a asp-action="Index" class="btn btn-primary">Back to List</a>
+	<div class="container row" style="padding-bottom:30px">
+		<div class="col-5" style="float:left; padding-left:30px">
+			<img src="@Model.Image" style="max-height:400px;max-width:400px" />
+		</div>
+		<div class="col-7" style="padding-right:5px; padding-left:10px">
+			<div class="row">
+				<div class="col-12">
+					<h2 style="text-align:center">Chi tiết phòng</h2>
+				</div>
+				<div  class="col-2"></div>
+				<div class="col-10">
+					<h3>@Model.RoomName</h3>
+				</div>
+				<div class="col-2"></div>
+				<div class="col-10">
+					<p><b>Giá thuê: </b>@Model.Price <span>VNĐ / đêm</span></p>
+				</div>
+				<div class="col-2"></div>
+				<div class="col-10">
+					<p><b>Mô tả: </b></p>
+				</div>
+				<div class="col-2"></div>
+				<div class="col-10">
+					<p>@Model.Description</p>
+				</div>
+				<div class="col-2"></div>
+				<div class="col-10">
+					<a asp-controller="BookingForm" asp-action="Add" asp-route-roomId="@Model.Id" class="btn btn-primary">Đặt ngay</a>
+				</div>
+			</div>
+		</div>
+	</div>
 </body>

@@ -1,0 +1,61 @@
+﻿@model IEnumerable<WebCK.Models.DepositBill>
+<link rel="stylesheet" href="https://cdn.datatables.net/2.0.7/css/dataTables.dataTables.css" />
+<script src="https://cdn.datatables.net/2.0.7/js/dataTables.js"></script>
+<body>
+    <div class="container">
+        <h3 style="text-align:center">Quản lý hóa đơn đặt cọc</h3>
+        <table id="banghoadon" class="display">
+            <thead style="background-color: gray; color: white">
+                <tr>
+                    @* <th>Tên khách hàng</th> *@
+                    <th>Ngày tạo</th>
+                    <th>Tổng tiền</th>
+                    <th>Chức năng</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var bill in Model)
+                {
+                    <tr>
+                        @* <td>@bill.BookingForm?.FullName</td> *@
+                        <td>@bill.DateCreated</td>
+                        <td>@bill.TotalFee</td>
+                        <td><a asp-action="Display" asp-route-id="@bill.Id" class="btn btn-primary">Xem chi tiết</a></td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</body>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+<link rel="stylesheet" href="https://cdn.datatables.net/2.0.7/css/dataTables.dataTables.css" />
+
+<script src="https://cdn.datatables.net/2.0.7/js/dataTables.js"></script>
+
+
+<script type="text/javascript">
+    var js = jQuery.noConflict(true);
+    js(document).ready(function () {
+        js('#banghoadon').DataTable({
+            "language": {
+                "sProcessing": "Đang xử lý...",
+                "sLengthMenu": "Xem _MENU_ mục",
+                "sZeroRecords": "Không tìm thấy dòng nào phù hợp",
+                "sInfo": "Đang xem _START_ đến _END_ trong tổng số _TOTAL_ mục",
+                "sInfoEmpty": "Đang xem 0 đến 0 trong tổng số 0 mục",
+                "sInfoFiltered": "(được lọc từ _MAX_ mục)",
+                "sInfoPostFix": "",
+                "sSearch": "Tìm:",
+                "sUrl": "",
+                "oPaginate": {
+                    "sFirst": "Đầu",
+                    "sPrevious": "Trước",
+                    "sNext": "Tiếp",
+                    "sLast": "Cuối"
+                }
+            }
+        });
+    });
+</script>

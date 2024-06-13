@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "D:\\device\\code exercises\\DACS\\DACS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|d:\\device\\code exercises\\dacs\\dacs\\views\\room\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|solutionrelative:views\\room\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|d:\\device\\code exercises\\dacs\\dacs\\views\\bill\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|solutionrelative:views\\bill\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|d:\\device\\code exercises\\dacs\\dacs\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|solutionrelative:views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|d:\\device\\code exercises\\dacs\\dacs\\views\\bookingform\\thanhtoan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|solutionrelative:views\\bookingform\\thanhtoan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|d:\\device\\code exercises\\dacs\\dacs\\views\\bookingform\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|solutionrelative:views\\bookingform\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|d:\\device\\code exercises\\dacs\\dacs\\models\\bookingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|solutionrelative:models\\bookingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|d:\\device\\code exercises\\dacs\\dacs\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|d:\\device\\code exercises\\dacs\\dacs\\controllers\\billcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|solutionrelative:controllers\\billcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|d:\\device\\code exercises\\dacs\\dacs\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|d:\\device\\code exercises\\dacs\\dacs\\models\\depositbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|solutionrelative:models\\depositbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|d:\\device\\code exercises\\dacs\\dacs\\controllers\\bookingformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|solutionrelative:controllers\\bookingformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|d:\\device\\code exercises\\dacs\\dacs\\views\\bookingform\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A2E4206-A6E1-4B7A-A429-30E680784BFE}|WebCK.csproj|solutionrelative:views\\bookingform\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -51,66 +59,92 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\device\\code exercises\\DACS\\DACS\\Views\\BookingForm\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\BookingForm\\Index.cshtml",
-              "ToolTip": "D:\\device\\code exercises\\DACS\\DACS\\Views\\BookingForm\\Index.cshtml",
-              "RelativeToolTip": "Views\\BookingForm\\Index.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAUAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-29T16:16:35.069Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\device\\code exercises\\DACS\\DACS\\Views\\Category\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Category\\Index.cshtml",
-              "ToolTip": "D:\\device\\code exercises\\DACS\\DACS\\Views\\Category\\Index.cshtml",
-              "RelativeToolTip": "Views\\Category\\Index.cshtml",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-29T16:16:22.524Z",
+              "Title": "BookingForm.cs",
+              "DocumentMoniker": "D:\\device\\code exercises\\DACS\\DACS\\Models\\BookingForm.cs",
+              "RelativeDocumentMoniker": "Models\\BookingForm.cs",
+              "ToolTip": "D:\\device\\code exercises\\DACS\\DACS\\Models\\BookingForm.cs",
+              "RelativeToolTip": "Models\\BookingForm.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T11:53:12.091Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\device\\code exercises\\DACS\\DACS\\Views\\Room\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Room\\Index.cshtml",
-              "ToolTip": "D:\\device\\code exercises\\DACS\\DACS\\Views\\Room\\Index.cshtml",
-              "RelativeToolTip": "Views\\Room\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAJAAAA",
+              "Title": "Display.cshtml",
+              "DocumentMoniker": "D:\\device\\code exercises\\DACS\\DACS\\Views\\Bill\\Display.cshtml",
+              "RelativeDocumentMoniker": "Views\\Bill\\Display.cshtml",
+              "ToolTip": "D:\\device\\code exercises\\DACS\\DACS\\Views\\Bill\\Display.cshtml",
+              "RelativeToolTip": "Views\\Bill\\Display.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABgAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-29T16:14:25.944Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\device\\code exercises\\DACS\\DACS\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\device\\code exercises\\DACS\\DACS\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAEIAAAAAAAAAAAAAAE4AAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-29T15:42:09.129Z",
+              "WhenOpened": "2024-06-13T11:18:52.153Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "D:\\device\\code exercises\\DACS\\DACS\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "D:\\device\\code exercises\\DACS\\DACS\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABeAAAA",
+              "Title": "BillController.cs",
+              "DocumentMoniker": "D:\\device\\code exercises\\DACS\\DACS\\Controllers\\BillController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BillController.cs",
+              "ToolTip": "D:\\device\\code exercises\\DACS\\DACS\\Controllers\\BillController.cs",
+              "RelativeToolTip": "Controllers\\BillController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAuwCUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T11:16:49.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepositBill.cs",
+              "DocumentMoniker": "D:\\device\\code exercises\\DACS\\DACS\\Models\\DepositBill.cs",
+              "RelativeDocumentMoniker": "Models\\DepositBill.cs",
+              "ToolTip": "D:\\device\\code exercises\\DACS\\DACS\\Models\\DepositBill.cs",
+              "RelativeToolTip": "Models\\DepositBill.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T11:12:32.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ThanhToan.cshtml",
+              "DocumentMoniker": "D:\\device\\code exercises\\DACS\\DACS\\Views\\BookingForm\\ThanhToan.cshtml",
+              "RelativeDocumentMoniker": "Views\\BookingForm\\ThanhToan.cshtml",
+              "ToolTip": "D:\\device\\code exercises\\DACS\\DACS\\Views\\BookingForm\\ThanhToan.cshtml",
+              "RelativeToolTip": "Views\\BookingForm\\ThanhToan.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAYwEYAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-29T15:32:19.454Z",
+              "WhenOpened": "2024-06-13T11:00:21.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\device\\code exercises\\DACS\\DACS\\Views\\BookingForm\\Add.cshtml",
+              "RelativeDocumentMoniker": "Views\\BookingForm\\Add.cshtml",
+              "ToolTip": "D:\\device\\code exercises\\DACS\\DACS\\Views\\BookingForm\\Add.cshtml",
+              "RelativeToolTip": "Views\\BookingForm\\Add.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAYAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T21:10:32.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookingFormController.cs",
+              "DocumentMoniker": "D:\\device\\code exercises\\DACS\\DACS\\Controllers\\BookingFormController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookingFormController.cs",
+              "ToolTip": "D:\\device\\code exercises\\DACS\\DACS\\Controllers\\BookingFormController.cs",
+              "RelativeToolTip": "Controllers\\BookingFormController.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAqwG8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T16:09:38.515Z",
               "EditorCaption": ""
             }
           ]

@@ -46,40 +46,32 @@
 						</div>
 						<div class="col-4"></div>
 						<hr>
-						@* <div class="col-6"><h2>@ViewBag.Form.Room?.RoomName</h2></div>
-						<div class="col-6"><h2>Total</h2></div> *@
 						<div class="col-6">
 							<p><b>Giá thuê</b></p>
 						</div>
 						<div class="col-6">
-							<p><b>@ViewBag.Form.BookingFee</b></p>
+							<p><b>@ViewBag.Form.BookingFee VNĐ</b></p>
 						</div>
 						<div class="col-6">
 							<p><b>Tiền cọc</b></p>
 						</div>
 						<div class="col-6">
-							<p><b>@ViewBag.Form.Deposit</b></p>
+							<p><b>@ViewBag.Form.Deposit VNĐ</b></p>
 						</div>
 						<div class="col-6">
 							<p><b>Phải thanh toán</b></p>
 						</div>
 						<div class="col-6">
-							<p><b>@ViewBag.Form.Deposit</b></p>
-						</div>
-						@* <div class="col-6">
-							<p>SubTotal</p>
+							<p><b>@ViewBag.Form.Deposit VNĐ</b></p>
 						</div>
 						<div class="col-6">
-							<p>@(ViewBag.Form.BookingFee - ViewBag.Form.Deposit)</p>
-						</div> *@
-						<div class="col-6">
-							<p><b>Tổng cộng</b></p>
+							<p><b><u>Tổng cộng</u></b></p>
 						</div>
 						<div class="col-6">
-							<p><b><u>@ViewBag.Form.Deposit</u></b></p>
+							<p><b><u>@ViewBag.Form.Deposit</u> VNĐ</b></p>
 						</div>
 						<br />
-						<button class="btn btn-primary" type="submit">Xác nhận</button>
+						<button class="btn btn-primary" asp-route-formId="@ViewBag.Form.Id" type="submit">Xác nhận</button>
 					</div>
 				</div>
 			</div>

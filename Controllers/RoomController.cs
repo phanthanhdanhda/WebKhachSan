@@ -58,6 +58,7 @@ namespace WebCK.Controllers
             }
             return "/img/rooms/" + image.FileName; // Trả về đường dẫn tương đối
         }
+        [AllowAnonymous]
         public async Task<IActionResult> Display(int id)
         {
             var room = await _roomRepository.GetByIdAsync(id);

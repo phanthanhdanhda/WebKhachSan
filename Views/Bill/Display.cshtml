@@ -1,0 +1,50 @@
+﻿@model DepositBill
+
+<div class="container">
+    <h3 style="text-align:center">Chi tiết hóa đơn</h3>
+    <hr />
+    <dl class="row">
+        @* <dt class="col-sm-2">
+            Khách hàng
+        </dt>
+        <dd class="col-sm-10">
+            @ViewBag.FullName
+        </dd> *@
+
+        <dt class="col-sm-2">
+            Ngày tạo:
+        </dt>
+        <dd class="col-sm-10">
+            @Model.DateCreated
+        </dd>
+
+        <dt class="col-sm-2">
+            Tổng tiền:
+        </dt>
+        <dd class="col-sm-10">
+            @Model.TotalFee VNĐ
+        </dd>
+
+        
+        <!-- Hiển thị các trường khác của DepositBill -->
+
+        <dt class="col-sm-2">
+            Đơn đặt phòng:
+        </dt>
+        <dd class="col-sm-10" style="color:black">
+            @if (Model.FormId != null)
+            {
+                <p>Tên khách hàng: @ViewBag.Form.FullName</p>
+                <p>Ngày Đặt: @ViewBag.Form.BookingDate</p>
+                <!-- Hiển thị các thông tin khác từ BookingForm -->
+            }
+            else
+            {
+                <p>Không có thông tin đơn đặt phòng cho hóa đơn này.</p>
+            }
+        </dd>
+    </dl>
+    <div class="col-12" style="text-align:center; padding-bottom:20px">
+        <a asp-controller="Home" asp-action="Index" class="btn btn-primary">Trở về xem phòng</a>
+    </div>
+</div>

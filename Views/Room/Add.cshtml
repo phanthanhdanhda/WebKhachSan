@@ -4,35 +4,37 @@
     ViewData["Title"] = "Thêm phòng";
 }
 <body>
-    <h2>Thêm phòng</h2>
     <div class="container">
-        <form asp-action="Add" method="post" enctype="multipart/form-data">
-            <div class="form-group">
-                <label asp-for="RoomName">Tên phòng</label>
-                <input asp-for="RoomName" class="form-control" />
-                <span asp-validation-for="RoomName" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="Price">Giá thuê</label>
-                <input asp-for="Price" class="form-control" />
-                <span asp-validation-for="Price" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="Description">Mô tả</label>
-                <textarea asp-for="Description" class="form-control"></textarea>
-            </div>
-            <div class="form-group">
-                <label asp-for="CategoryId">Thể loại</label>
-                <select asp-for="CategoryId" asp-items="ViewBag.Categories" class="form-control">
-                    <option value="">-- Chọn thể loại --</option>
-                </select>
-            </div>
-            <div class="form-group">
-                <label asp-for="Image">Hình ảnh</label>
-                <input type="file" asp-for="Image" class="form-control" />
-            </div>
-            <button type="submit" class="btn btn-primary">Thêm</button>
-            <a asp-action="Index" class="btn btn-close">Hủy</a>
-        </form>
+        <h3 style="text-align:center">Thêm phòng</h3>
+        <div class="container">
+            <form asp-action="Add" method="post" enctype="multipart/form-data">
+                <div class="form-group">
+                    <label asp-for="RoomName">Tên phòng</label>
+                    <input asp-for="RoomName" class="form-control" />
+                    <span asp-validation-for="RoomName" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Price">Giá thuê</label>
+                    <input asp-for="Price" class="form-control" />
+                    <span asp-validation-for="Price" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Description">Mô tả</label>
+                    <textarea asp-for="Description" class="form-control"></textarea>
+                </div>
+                <div class="form-group">
+                    <label asp-for="CategoryId">Thể loại</label>
+                    <select asp-for="CategoryId" asp-items="ViewBag.Categories" class="form-control">
+                        <option value="">-- Chọn thể loại --</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Image">Hình ảnh</label>
+                    <input type="file" asp-for="Image" class="form-control" />
+                </div>
+                <button type="submit" class="btn btn-primary">Thêm</button>
+                <a asp-action="Index" class="btn btn-close">Hủy</a>
+            </form>
+        </div>
     </div>
 </body>

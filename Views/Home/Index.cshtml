@@ -19,7 +19,6 @@
                         </div>
                     </div>
                 </div>
-            </div>
         </div>
     </div>
     <!-- slider Area End-->
@@ -161,20 +160,22 @@
                 </div>
             </div>
             <div class="row">
-                @foreach(var room in @Model)
+                @foreach(var room in Model)
                 {
                     <div class="col-xl-4 col-lg-6 col-md-6">
                         <!-- Single Room -->
                         <div class="single-room mb-50">
                             <div class="room-img">
-                                <a asp-controller="Room" asp-action="Display" asp-route-id="@room.Id"><img src="@room.Image" alt="anhphong"></a>
+                                <a asp-controller="Room" asp-action="Display" asp-route-id="@room.Id">
+                                    <img src="@room.Image" alt="anhphong">
+                                </a>
                             </div>
                             <div class="room-caption">
                                 <h3><a asp-controller="Room" asp-action="Display" asp-route-id="@room.Id">@room.RoomName</a></h3>
                                 <div class="per-night">
-                                    <span>@room.Price VNĐ <span>/ đêm</span></span>
+                                    <span>@room.Price <span>VNĐ / đêm</span></span>
                                 </div>
-                                <a asp-controller="BookingForm" asp-action="Add" asp-route-RoomId="@room.Id" class="btn btn-primary">Đặt phòng ngay</a>
+                                <a class="btn btn-primary" asp-controller="BookingForm" asp-action="Add" asp-route-roomId="@room.Id">Đặt ngay</a>
                             </div>
                         </div>
                     </div>
@@ -251,7 +252,7 @@
                     </div>
                 </div> *@
             </div>
-            <div class="row justify-content-center">
+            <div class="row justify-content-center" style="padding-bottom:30px">
                 <div class="room-btn pt-70">
                     <a asp-controller="Room" asp-action="Index" class="btn view-btn1">Xem Thêm<i class="ti-angle-right"></i> </a>
                 </div>

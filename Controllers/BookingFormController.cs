@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using System.Security.Claims;
 using WebCK.Data;
 using WebCK.Models;
@@ -20,6 +21,7 @@ namespace WebCK.Controllers
             _billRepository = billRepository;
             _context = context;
         }
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Index()
         {
             var forms = await _formRepository.GetAllAsync();
@@ -30,13 +32,17 @@ namespace WebCK.Controllers
         {
             var room = await _roomRepository.GetByIdAsync(roomId);
             ViewBag.RoomPrice = room.Price;
-            ViewBag.Deposit = room.Price / 5;
+            ViewBag.Deposit = Math.Round((float)room.Price / 5,0);
+            ViewBag.RoomId = roomId;
             return View();
         }
         [HttpPost]
         public async Task<IActionResult> Add(int roomId, BookingForm form)
         {
-            form.RoomId = roomId;
+            var room = await _roomRepository.GetByIdAsync(roomId);
+            if (room == null)
+                return NotFound();
+            form.RoomId = room.Id;
             form.UserId = User.FindFirstValue(ClaimTypes.NameIdentifier);
             if (ModelState.IsValid)
             {
@@ -45,7 +51,21 @@ namespace WebCK.Controllers
             }
             return View(form);
         }
-        public async Task<IActionResult> Display(int id)
+		//[HttpPost]
+		//public async Task<ActionResult> CalculateRent(int roomId, string checkInDate, string checkOutDate)
+		//{
+		//	DateTime checkIn = DateTime.Parse(checkInDate);
+		//	DateTime checkOut = DateTime.Parse(checkOutDate);
+            //var  room = await _roomRepository.GetByIdAsync(roomId);
+		//	int numberOfDays = (int)(checkOut - checkIn).TotalDays;
+
+		//	// Tính giá thuê và tiền đặt cọc tại đây
+		//	double totalRentPrice = numberOfDays * room.Price;
+		//	double depositAmount = Math.Round(totalRentPrice * 0.2);
+
+		//	return Json(new { bookingFee = totalRentPrice, deposit = depositAmount });
+		//}
+		public async Task<IActionResult> Display(int id)
         {
             var form = await _formRepository.GetByIdAsync(id);
             if (form == null)
@@ -54,16 +74,7 @@ namespace WebCK.Controllers
             }
             return View(form);
         }
-        //[HttpGet]
-        //public async Task<IActionResult> ThanhToan(int formId)
-        //{
-        //    var form = await _formRepository.GetByIdAsync(formId);
-        //    ViewBag.Form = form;
-        //    var room = await _roomRepository.GetByIdAsync((int)form.RoomId);
-        //    ViewBag.Room = room;
-        //    return View();
-        //}
-        
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Delete(int id)
         {
             var form = await _formRepository.GetByIdAsync(id);
@@ -74,6 +85,7 @@ namespace WebCK.Controllers
             return View(form);
         }
         // Xử lý xóa sản phẩm
+        [Authorize(Roles = "Admin")]
         [HttpPost, ActionName("DeleteConfirmed")]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
@@ -97,20 +109,20 @@ namespace WebCK.Controllers
         {
             var form = await _formRepository.GetByIdAsync(formId);
             ViewBag.Form = form;
-            if (form != null)
+            if (form == null)
             {
-                bill.UserId = form.UserId;
-                bill.FormId = form.Id;
-                bill.TotalFee = form.Deposit;
+                return NotFound();
             }
-            else return NotFound();
+            bill.UserId = form.UserId;
+            bill.FormId = form.Id;
+            bill.TotalFee = form.Deposit;
+            
             if (ModelState.IsValid)
             {
-				await _billRepository.AddAsync(bill); // Use async version of SaveChanges
-
-				return View();
-			}
-            return View(bill);
+				await _billRepository.AddAsync(bill);
+				return RedirectToAction("Display", "Bill", new { id = bill.Id });
+            }
+            return View();
         }
     }
 }

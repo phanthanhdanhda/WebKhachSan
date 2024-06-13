@@ -3,22 +3,23 @@
 <script src="https://cdn.datatables.net/2.0.7/js/dataTables.js"></script>
 <body>
     <div class="container">
+        <h2 style="text-align:center">Quản lý phòng</h2>
         <a asp-controller="Room" asp-action="Add" class="btn btn-secondary">Thêm phòng</a>
         <table id="bangphong" class="display">
             <thead style="background-color: gray; color: white">
                 <tr>
-                    <th style="max-width: 300px">Hình ảnh</th>
+                    <th style="max-width: 80px">Hình ảnh</th>
                     <th>Tên phòng</th>
                     <th>Giá thuê</th>
                     <th>Loại phòng</th>
-                    <th style="max-width: 400px">Chức năng</th>
+                    <th style="max-width: 450px">Chức năng</th>
                 </tr>
             </thead>
             <tbody>
                 @foreach (var room in Model)
                 {
                     <tr>
-                        <td><img src="@room.Image" style="height:50%; width:50%" /></td>
+                        <td style="max-width:80px"><img src="@room.Image" style="height:50%; width:50%" /></td>
                         <td>@room.RoomName</td>
                         <td>@room.Price</td>
                         <td>@room.Category?.CategoryName</td>
