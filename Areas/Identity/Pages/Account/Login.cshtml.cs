@@ -137,7 +137,7 @@ namespace WebCK.Areas.Identity.Pages.Account
                 }
                 else
                 {
-                    ModelState.AddModelError(string.Empty, "Invalid login attempt.");
+                    ModelState.AddModelError(string.Empty, "Đăng nhập không hợp lệ");
                     return Page();
                 }
             }
